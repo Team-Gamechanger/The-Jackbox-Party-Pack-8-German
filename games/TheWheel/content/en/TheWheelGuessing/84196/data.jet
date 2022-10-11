@@ -23,14 +23,13 @@
     },
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasFollowupAudio"
     },
     {
       "t": "A",
       "v": "followup",
-      "n": "FollowupAudio",
-      "s": "Ihr Menschen versteht es echt, Räder zu benutzen, um schneller zu sein. Das erfüllt mein Herz doch gleich mit Freude."
+      "n": "FollowupAudio"
     },
     {
       "t": "B",
@@ -169,13 +168,14 @@
     },
     {
       "t": "B",
-      "v": "false",
+      "v": "true",
       "n": "HasOutroAudio"
     },
     {
       "t": "A",
       "v": "outro",
-      "n": "OutroAudio"
+      "n": "OutroAudio",
+      "s": "Ihr Menschen versteht es echt, Räder zu benutzen, um schneller zu sein. Das erfüllt mein Herz doch gleich mit Freude."
     }
   ]
 }

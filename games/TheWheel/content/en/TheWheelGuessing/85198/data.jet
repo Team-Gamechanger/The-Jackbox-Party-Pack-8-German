@@ -23,14 +23,13 @@
     },
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasFollowupAudio"
     },
     {
       "t": "A",
       "v": "followup",
-      "n": "FollowupAudio",
-      "s": "Ist es ein anderer als der, an den ihr gerade denkt? Ich meine, wir denken doch alle an berühmte Wissenschaftler, oder täusche ich mich?"
+      "n": "FollowupAudio"
     },
     {
       "t": "B",
@@ -169,13 +168,14 @@
     },
     {
       "t": "B",
-      "v": "false",
+      "v": "true",
       "n": "HasOutroAudio"
     },
     {
       "t": "A",
       "v": "outro",
-      "n": "OutroAudio"
+      "n": "OutroAudio",
+      "s": "Ist es ein anderer als der, an den ihr gerade denkt? Ich meine, wir denken doch alle an berühmte Wissenschaftler, oder täusche ich mich?"
     }
   ]
 }

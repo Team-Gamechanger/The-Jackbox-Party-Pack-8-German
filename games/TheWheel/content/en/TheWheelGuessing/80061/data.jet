@@ -131,13 +131,14 @@
     },
     {
       "t": "B",
-      "v": "false",
+      "v": "true",
       "n": "HasClueAudio4"
     },
     {
       "t": "A",
       "v": "clues_4_clue",
-      "n": "ClueAudio4"
+      "n": "ClueAudio4",
+      "s": "Bei den meisten wächst es überwiegend auf der Kopfhaut."
     },
     {
       "t": "B",
