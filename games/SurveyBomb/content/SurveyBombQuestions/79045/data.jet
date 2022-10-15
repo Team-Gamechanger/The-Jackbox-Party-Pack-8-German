@@ -23,14 +23,13 @@
     },
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasOutroAudio"
     },
     {
       "t": "A",
       "v": "outro",
-      "n": "OutroAudio",
-      "s": "Man sollte meinen ein Geheimversteck in einem Vulkan kostet eine Menge. Aber Wohnungen in Berlin sind noch um einiges teurer."
+      "n": "OutroAudio"
     }
   ]
 }

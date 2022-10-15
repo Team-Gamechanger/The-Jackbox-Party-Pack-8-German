@@ -23,14 +23,13 @@
     },
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasOutroAudio"
     },
     {
       "t": "A",
       "v": "outro",
-      "n": "OutroAudio",
-      "s": "Ihr habt echt den Nagel auf den Kopf getroffen!"
+      "n": "OutroAudio"
     }
   ]
 }

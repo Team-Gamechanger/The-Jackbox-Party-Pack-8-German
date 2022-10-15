@@ -19,18 +19,17 @@
       "t": "A",
       "v": "question",
       "n": "QuestionAudio",
-      "s": "In welchem dieser Szenarios würdest du dir einen Partner wünschen, der ein sehr intelligenter Orang-Utan ist?"
+      "s": "In welchem dieser Szenarien würdest du dir einen Partner wünschen, der ein sehr intelligenter Orang-Utan ist?"
     },
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasOutroAudio"
     },
     {
       "t": "A",
       "v": "outro",
-      "n": "OutroAudio",
-      "s": "Szenarien?"
+      "n": "OutroAudio"
     }
   ]
 }

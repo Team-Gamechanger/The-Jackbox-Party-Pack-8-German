@@ -24,14 +24,13 @@
     },
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasOutroAudio"
     },
     {
       "t": "A",
       "v": "outro",
-      "n": "OutroAudio",
-      "s": "Jetzt fehlt euch allen nur noch ein angesagter Bandname. Wie wär's mit \"Gefangen für immer\"?"
+      "n": "OutroAudio"
     }
   ]
 }

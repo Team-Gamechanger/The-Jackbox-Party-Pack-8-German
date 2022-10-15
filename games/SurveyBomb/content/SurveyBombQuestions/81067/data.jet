@@ -23,14 +23,13 @@
     },
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasOutroAudio"
     },
     {
       "t": "A",
       "v": "outro",
-      "n": "OutroAudio",
-      "s": "Und deshalb immer schön den Suchverlauf löschen. Oder alle Mitwisser in einer Höhle einsperren und darin verrotten lassen. Klappt auch!"
+      "n": "OutroAudio"
     }
   ]
 }

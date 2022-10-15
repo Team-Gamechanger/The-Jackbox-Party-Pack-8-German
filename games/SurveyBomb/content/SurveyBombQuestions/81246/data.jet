@@ -24,14 +24,13 @@
     },
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasOutroAudio"
     },
     {
       "t": "A",
       "v": "outro",
-      "n": "OutroAudio",
-      "s": "Puh...das hat mir eine ganz neue, eklige Seite von euch gezeigt."
+      "n": "OutroAudio"
     }
   ]
 }
