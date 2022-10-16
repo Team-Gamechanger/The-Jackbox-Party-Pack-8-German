@@ -24,14 +24,13 @@
     },
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasOutroAudio"
     },
     {
       "t": "A",
       "v": "outro",
-      "n": "OutroAudio",
-      "s": "Lasst uns... Lasst uns einfach nie wieder darüber sprechen."
+      "n": "OutroAudio"
     }
   ]
 }

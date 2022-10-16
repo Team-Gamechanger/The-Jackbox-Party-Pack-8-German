@@ -23,14 +23,13 @@
     },
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasOutroAudio"
     },
     {
       "t": "A",
       "v": "outro",
-      "n": "OutroAudio",
-      "s": "Vielen Dank, dass ihr uns mit dieser Umfrage aushelft. Ein nackter Salat gehört sich schließlich nicht."
+      "n": "OutroAudio"
     }
   ]
 }

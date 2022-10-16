@@ -1014,10 +1014,10 @@
    "category": "Music",
    "id": "81487",
    "isValid": "",
-   "prompt": "Wie hoch ist in Deutschland laut StVO das Bußgeld für Fußgänger, die bei rot die Straße überqueren?",
-   "unit": "(in Euro)",
-   "us": false,
-   "value": "5",
+   "prompt": "Wie oft sagt Drake das Wort “YOLO” in seinem Hit-Song “The Motto”",
+   "unit": "(in YOLOs)",
+   "us": true,
+   "value": "3",
    "x": false
   },
   {

@@ -24,14 +24,13 @@
     },
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasOutroAudio"
     },
     {
       "t": "A",
       "v": "outro",
-      "n": "OutroAudio",
-      "s": "Macht hinne, sonst erwischen sie uns noch!!"
+      "n": "OutroAudio"
     }
   ]
 }
