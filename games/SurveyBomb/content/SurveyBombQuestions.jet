@@ -1,4 +1,4 @@
-﻿{
+{
  "content": [
   {
    "category": "favorite",
@@ -78,7 +78,7 @@
     "Gestaltwandlung",
     "Mit Tieren kommunizieren",
     "Das Wetter steuern",
-    "1 Stunde in die Zukunft sehen können"
+    "Eine Stunde in die Zukunft sehen können"
    ],
    "id": "76656",
    "intro": null,
@@ -186,7 +186,7 @@
     "Apple Genius",
     "Wetterfrosch",
     "Braumeister",
-    "FIFA Schiedsrichter",
+    "FIFA-Schiedsrichter",
     "Proktologe",
     "Gymnasiallehrer für Geometrie",
     "Amazon CEO",
@@ -255,7 +255,7 @@
     "Socken",
     "Kaffee",
     "Decken",
-    "AA Batterien",
+    "AA-Batterien",
     "Tanzen"
    ],
    "id": "76664",
@@ -300,7 +300,7 @@
     "Anzug oder Kleid",
     "Trenchcoat",
     "Pullover",
-    "Halloween Kostüm"
+    "Halloween-Kostüm"
    ],
    "id": "76666",
    "intro": "Modefreunde aufgepasst!",
@@ -350,7 +350,7 @@
    "intro": null,
    "isValid": "",
    "outro": null,
-   "question": "Beste Sache, die man in einer Brotdose haben kann",
+   "question": "Die beste Sache, die man in einer Brotdose haben kann",
    "questionShort": "Deine Brotdose",
    "round": "first",
    "us": false,
@@ -382,15 +382,15 @@
    "category": "favorite",
    "choices": [
     "Nimmerland (Peter Pan)",
-    "Wakanda (Marvel)",
-    "Hogwarts (Harry Potter)",
-    "Stars Hollow (Gilmore Girls)",
-    "Auenland (HdR)",
-    "Vertania City (Pokémon)",
-    "Die USS Enterprise (Star Trek)",
-    "Kakariko (Zelda)",
-    "Moomin Dorf (Moomins)",
-    "Animal Crossing Dorf"
+    "Wakanda ([i]Marvel[/i])",
+    "Hogwarts ([i]Harry Potter[/i])",
+    "Stars Hollow ([i]Gilmore Girls[/i])",
+    "Auenland ([i]HdR[/i])",
+    "Vertania City ([i]Pokémon[/i])",
+    "Die USS Enterprise ([i]Star Trek[/i])",
+    "Kakariko ([i]Zelda[/i])",
+    "Moomin Dorf ([i]Moomins[/i])",
+    "[i]Animal Crossing[/i]-Dorf"
    ],
    "id": "76671",
    "intro": null,
@@ -480,7 +480,7 @@
     "Lollipop",
     "Glibberhand",
     "Ballon",
-    "3 Wachsmalstifte",
+    "Drei Wachsmalstifte",
     "Kaugummitattoo",
     "Schleim"
    ],
@@ -520,9 +520,9 @@
    "category": "worst",
    "choices": [
     "Schlamm",
-    "Cola Caprisonne",
+    "Cola-[i]Capri Sun[/i]",
     "Lauwarmer Kaffee",
-    "Baby Shampoo",
+    "Baby-Shampoo",
     "Schlagsahne",
     "Warme Apfelschorle",
     "Süßer Senf",
@@ -557,7 +557,7 @@
    "isValid": "",
    "outro": null,
    "question": "Welches Objekt wärst du am liebsten, wenn du 10 Jahre in einem verfluchten Schloss verbringen müsstest?",
-   "questionShort": "Eine Jahrzehnt als Objekt",
+   "questionShort": "Ein Jahrzehnt als Objekt",
    "round": "second",
    "us": false,
    "x": false
@@ -565,7 +565,7 @@
   {
    "category": "favorite",
    "choices": [
-    "Cowboy Hut",
+    "Cowboy-Hut",
     "Fäustlinge",
     "Cape",
     "Glitzerweste",
@@ -602,7 +602,7 @@
    "intro": "Das Leben ist viel zu schwer.",
    "isValid": "",
    "outro": null,
-   "question": "Dein persönlicher Assistent übernimmt ab heute diese Sache für dich und du musst sie nie wieder tun",
+   "question": "Dein persönlicher Assistent übernimmt ab heute diese Sache für dich und du musst sie nie wieder tun.",
    "questionShort": "Verschwundene Pflichten",
    "round": "second",
    "us": false,
@@ -611,12 +611,12 @@
   {
    "category": "set",
    "choices": [
-    "[i]Die Bild Zeitung[/i]",
+    "[i]BILD[/i]",
     "[i]Frankfurter Allgemeine[/i]",
     "[i]BRAVO[/i]",
     "[i]Brigitte[/i]",
     "[i]National Geographic[/i]",
-    "[i]Technikermagazin[/i]",
+    "Magazin für Techniker",
     "[i]Rolling Stone[/i]",
     "[i]Genuss[/i]"
    ],
@@ -681,13 +681,13 @@
     "Bienen",
     "Donnerschlag",
     "Kettensäge",
-    "Leere Handy Batterie",
+    "Leere Handybatterie",
     "Raschelnde Büsche",
     "Deine Hose, wie sie zerreißt",
     "Einen Geist?"
    ],
    "id": "76850",
-   "intro": "Immer diese Camper, nie hat man seine Ruhe! Gut, dass man die so leicht loswird...",
+   "intro": "Immer diese Camper, nie hat man seine Ruhe! Gut, dass man die so leicht los wird...",
    "isValid": "",
    "outro": null,
    "question": "Du verbringst eine Nacht allein im Wald. Was möchtest du nicht hören?",
@@ -735,7 +735,7 @@
    "isValid": "",
    "outro": null,
    "question": "Was ist der beste Name für einen Hund?",
-   "questionShort": "Beste Hunde-Namen",
+   "questionShort": "Beste Hundenamen",
    "round": "first",
    "us": false,
    "x": false
@@ -771,7 +771,7 @@
     "Farm",
     "Sportplatz",
     "Planetarium",
-    "Naturgeschichte Museum",
+    "Naturgeschichtsmuseum",
     "Lokales Theaterstück",
     "Käsefabrik",
     "Lehrerzimmer"
@@ -814,7 +814,7 @@
     "Lukas' Stiefvater",
     "Der Chadster",
     "\"Wer?\"",
-    "Mister Immer am Kacken",
+    "Mister \"Immer am Kacken\"",
     "Der neue Kevin",
     "Der alte Kevin",
     "Schlurmpel",
@@ -834,7 +834,7 @@
    "category": "set",
    "choices": [
     "Ein sehr hübscher Apfel",
-    "Etwas was die Gesellschaft repräsentiert",
+    "Etwas, was die Gesellschaft repräsentiert",
     "Eine Katze mit Menschengesicht",
     "Büschel von Weizen",
     "Ein großer Fisch",
@@ -884,7 +884,7 @@
     "Hat Schlangen als Haustier",
     "Wirft Müll aus dem Autofenster",
     "Geht nicht wählen",
-    "Hat ein Kackhaufen Emoji tätowiert"
+    "Hat ein Kackhaufen-Emoji tätowiert"
    ],
    "id": "76952",
    "intro": null,
@@ -968,7 +968,7 @@
   {
    "category": "worst",
    "choices": [
-    "Gummi Knie",
+    "Gummiknie",
     "Lautes Blinzeln",
     "Hässliche Zähne",
     "Vibrierende Zehen",
@@ -1004,7 +1004,7 @@
    "isValid": "",
    "outro": null,
    "question": "Du kennst doch die Rentiere des Weihnachtsmanns, oder? Welchen Namen findest du am besten?",
-   "questionShort": "Dein Rentier Name",
+   "questionShort": "Dein Rentier-Name",
    "round": "third",
    "us": true,
    "x": false
@@ -1037,7 +1037,7 @@
     "Weihnachtsbaum-Markt",
     "Überbesuchtes Café",
     "Vatis Geschenkjob",
-    "Das Horrorfilm Kino",
+    "Das Horrorfilm-Kino",
     "Palast in einem fiktionalem Land",
     "Lebkuchenhaus-Meisterschaft",
     "Lokaler Flughafen",
@@ -1047,7 +1047,7 @@
    "intro": null,
    "isValid": "",
    "outro": null,
-   "question": "Der perfekte Ort um die Liebe deines Lebens kennenzulernen",
+   "question": "Der perfekte Ort, um die Liebe deines Lebens kennenzulernen",
    "questionShort": "Der perfekte Ort",
    "round": "third",
    "us": false,
@@ -1106,7 +1106,7 @@
     "Handy",
     "Geruchssinn",
     "Kreditkarte",
-    "Rechter Schneidezahn",
+    "Rechter oberer Schneidezahn",
     "Schuhe"
    ],
    "id": "77216",
@@ -1126,7 +1126,7 @@
     "\"Ich date euren Lehrer\"",
     "\"Wie die Erde untergehen wird\"",
     "\"Kapitalismus! Juchhuu!!'",
-    "\"Die Saw Filme genießen\"",
+    "\"Die Saw-Filme genießen\"",
     "\"Händewaschen ist was für Versager\"",
     "\"So mobbt man am besten\"",
     "\"Lasst uns für immer schreien!\""
@@ -1149,7 +1149,7 @@
     "Das Essen ist geliefert",
     "5€ in der Jackentasche finden",
     "Einen Welpen streicheln dürfen",
-    "Perfekt parallel Parken",
+    "Perfekt parallel parken",
     "Die Haare gewaschen bekommen",
     "Jemand anderes bläst Pläne mit dir ab"
    ],
@@ -1189,7 +1189,7 @@
    "category": "hypothetical",
    "choices": [
     "Viktorianisches Kind",
-    "Nazi Soldat",
+    "Nazi-Soldat",
     "Kopflose Königin",
     "Betrunkener Kapitän",
     "Frecher kleiner Gremlin",
@@ -1217,7 +1217,7 @@
     "Lautes Gebrabbel",
     "Ein kleiner Wiggle",
     "Küsschen",
-    "So tun als wäre es nie passiert"
+    "So tun, als wäre es nie passiert"
    ],
    "id": "77274",
    "intro": "Rein abstandsmäßig, seid ihr meine engsten Freunde...",
@@ -1276,9 +1276,9 @@
   {
    "category": "set",
    "choices": [
-    "Trainierte Kampf Tiger",
-    "U-Boot Fluchtwege",
-    "Laser Verteidigungssystem",
+    "Trainierte Kampftiger",
+    "U-Boot-Fluchtwege",
+    "Laser-Verteidigungssystem",
     "Ein sehr schöner Thron",
     "Lavagraben",
     "Großes Aquarium",
@@ -1299,12 +1299,12 @@
    "category": "favorite",
    "choices": [
     "Etwas mit Schokolade",
-    "Etwas Fruchtiges",
-    "Etwas Nussiges",
+    "Etwas fruchtiges",
+    "Etwas nussiges",
     "Etwas mit Alkohol",
-    "Etwas Käsiges",
-    "Etwas Komisches",
-    "Etwas Leichtes",
+    "Etwas käsiges",
+    "Etwas komisches",
+    "Etwas leichtes",
     "Etwas mit Feuer"
    ],
    "id": "77308",
@@ -1371,18 +1371,18 @@
     "Klebeband",
     "Orange",
     "Zahnseide",
-    "LEGO",
+    "[i]LEGO[/i]",
     "Magische Marker",
     "Ein Schuh",
     "Kissen",
     "Brotlaib"
    ],
    "id": "77315",
-   "intro": "Wenn man bei der Mafia ist, muss man lernen zu improvisieren.",
+   "intro": "Wenn man bei der Mafia ist, muss man lernen, zu improvisieren.",
    "isValid": "",
    "outro": null,
    "question": "Deine Mafiakumpel haben all die guten Waffen schon weggeschnappt. Was nimmst du dir?",
-   "questionShort": "Komische Mafia Waffen",
+   "questionShort": "Komische Mafia-Waffen",
    "round": "second",
    "us": false,
    "x": false
@@ -1395,7 +1395,7 @@
     "Mülltonne",
     "Dreißig Ballons",
     "Die gute alte Pflanzennummer",
-    "Gold Spray",
+    "Goldspray",
     "Ein Tablett mit Häppchen",
     "Das Gesicht von Til Schweiger"
    ],
@@ -1426,7 +1426,7 @@
    "isValid": "",
    "outro": null,
    "question": "Der beste Name für einen Schnulzen-Autor",
-   "questionShort": "Bester Schnulzen-Autor-Name",
+   "questionShort": "Bester Schnulzen-Autorname",
    "round": "third",
    "us": true,
    "x": true
@@ -1513,8 +1513,8 @@
    "intro": "Hat jemand Lust auf Brunch?",
    "isValid": "",
    "outro": null,
-   "question": "Du verzierst den perfekten Bloody Mary Cocktail. Was kommt drauf?",
-   "questionShort": "Bloody Mary Toppings",
+   "question": "Du verzierst den perfekten Bloody Mary-Cocktail. Was kommt drauf?",
+   "questionShort": "Bloody Mary-Toppings",
    "round": "first",
    "us": false,
    "x": true
@@ -1691,7 +1691,7 @@
    "intro": null,
    "isValid": "",
    "outro": null,
-   "question": "Such dir einfach 'nen Finger aus?",
+   "question": "Such dir einfach 'nen Finger aus!",
    "questionShort": "Finger aussuchen",
    "round": "third",
    "us": true,
@@ -1758,7 +1758,7 @@
    "isValid": "",
    "outro": null,
    "question": "Welche Kombination von unnützen Dingen wird dir dabei helfen, eine Bombe zu entschärfen?",
-   "questionShort": "Na los MacGyver",
+   "questionShort": "Na los, MacGyver",
    "round": "second",
    "us": false,
    "x": false
@@ -1788,14 +1788,14 @@
   {
    "category": "worst",
    "choices": [
-    "[i]Kaputte Mikrofone[/i]",
-    "[i]Die Nachrichten, in schlecht.[/i]",
-    "[i]Influencer weinen[/i]",
-    "[i]Zeit für Mundgeräusche[/i]",
-    "[i]Vier Stunden Stuhlgang[/i]",
-    "[i]Sport[/i]",
-    "[i]Traurige Geschichten, schlecht erzählt[/i]",
-    "[i]Es war Mord! Juchhu![/i]"
+    "Kaputte Mikrofone",
+    "Die Nachrichten, in schlecht.",
+    "Weinende Influencer",
+    "Zeit für Mundgeräusche",
+    "Vier Stunden Stuhlgang",
+    "Sport",
+    "Traurige Geschichten, schlecht erzählt",
+    "Es war Mord! Juchhu!"
    ],
    "id": "77654",
    "intro": "Die heutige Episode der Poll Mine wurde gesponsert von...",
@@ -1815,7 +1815,7 @@
     "fliegende Toaster",
     "Würfel",
     "Aquarium",
-    "Bilder Slideshow",
+    "Bilder-Slideshow",
     "Wellenlinien",
     "Blasen"
    ],
@@ -1837,8 +1837,8 @@
     "\"Erkläre dich.\"",
     "\"Schrift nicht entzifferbar\"",
     "\"Viel Glück beim nächsten Mal!\"",
-    "\"gekauter Kaugummi\"",
-    "\"Lol das merk ich mir\"",
+    "gekauter Kaugummi",
+    "\"Lol, das merk ich mir\"",
     "\"Ignorier das Blut!\""
    ],
    "id": "77656",
@@ -1861,7 +1861,7 @@
     "\"gewisslich\"",
     "\"sänftiglich\"",
     "\"tunlich\"",
-    "\"Kurzweil\""
+    "\"kurzweil\""
    ],
    "id": "77661",
    "intro": null,
@@ -1955,7 +1955,7 @@
    "intro": "Schnurrstracks eine neue Frage!",
    "isValid": "",
    "outro": null,
-   "question": "Der schlechteste Beruf für eine Katze?",
+   "question": "Der schlechteste Beruf für eine Katze",
    "questionShort": "Jobz 4 Kittenz",
    "round": "second",
    "us": false,
@@ -1999,7 +1999,7 @@
    "intro": "Die nächste Frage spielt in einer wahrhaft finsteren und stürmischen Nacht...",
    "isValid": "",
    "outro": null,
-   "question": "Du besuchst ein gruseliges, altes Schloss. Nimm etwas mit um dich zu beschützen!",
+   "question": "Du besuchst ein gruseliges, altes Schloss. Nimm etwas mit, um dich zu beschützen!",
    "questionShort": "Verteidigen im Gruselschloss",
    "round": "third",
    "us": false,
@@ -2022,7 +2022,7 @@
    "isValid": "",
    "outro": null,
    "question": "Aliens kommen auf die Erde. Schnell, was schenkst du ihnen?",
-   "questionShort": "Aliens Willkommen heißen",
+   "questionShort": "Aliens willkommen heißen",
    "round": "third",
    "us": false,
    "x": false
@@ -2036,7 +2036,7 @@
     "Zahnarztstuhl",
     "Angezündete Kerze",
     "Kleiner Papagei",
-    "Deine Lieblings CD",
+    "Deine Lieblings-CD",
     "Ein frisch gerösteter Marshmallow"
    ],
    "id": "77722",
@@ -2140,7 +2140,7 @@
    "isValid": "",
    "outro": null,
    "question": "Für einen Partner macht man so einiges, aber DAS ist zu viel verlangt",
-   "questionShort": "Nichtmal für die Liebe",
+   "questionShort": "Nicht mal für die Liebe",
    "round": "second",
    "us": false,
    "x": true
@@ -2281,7 +2281,7 @@
    "intro": null,
    "isValid": "",
    "outro": null,
-   "question": "Schnell!! Wähle dein liebstes Frozen Yogurt Topping!",
+   "question": "Schnell!! Wähle dein liebstes Frozen Yogurt-Topping!",
    "questionShort": "Froyo-Toppings",
    "round": "first",
    "us": false,
@@ -2316,7 +2316,7 @@
     "Gameboy Advance",
     "Wurmi",
     "Hüpftiere",
-    "Carrera Bahn",
+    "Carrera-Bahn",
     "Wasserpistole",
     "Spielzeugofen",
     "Puppen",
@@ -2357,7 +2357,7 @@
    "intro": null,
    "isValid": "",
    "outro": null,
-   "question": "Zeit die ultimative Pizza zu belegen!",
+   "question": "Zeit, die ultimative Pizza zu belegen!",
    "questionShort": "Pizza-Toppings",
    "round": "first",
    "us": false,
@@ -2517,7 +2517,7 @@
     "Haustiere"
    ],
    "id": "78144",
-   "intro": "Du denkst DU hast es schwer? Du solltest mal meinen Kontostand sehen...",
+   "intro": "Du denkst, DU hast es schwer? Du solltest mal meinen Kontostand sehen...",
    "isValid": "",
    "outro": null,
    "question": "Du hast diesen Monat viel zu viel ausgegeben. Wofür?",
@@ -2626,7 +2626,7 @@
    "category": "worst",
    "choices": [
     "M. Bison ([i]Street Fighter[/i])",
-    "Thanos (Marvel)",
+    "Thanos ([i]Marvel[/i])",
     "Hans Gruber ([i]Stirb Langsam[/i])",
     "Hades ([i]Herkules[/i])",
     "Khan ([i]Star Trek[/i])",
@@ -2635,7 +2635,7 @@
     "Cersei Lannister ([i]Game of Thrones[/i])",
     "Kylo Ren ([i]Star Wars[/i])",
     "Hiram Lodge ([i]Riverdale[/i])",
-    "Cruella de Vil (Disney)"
+    "Cruella de Vil ([i]Disney[/i])"
    ],
    "id": "78151",
    "intro": null,
@@ -2733,11 +2733,11 @@
     "[i]Lang sterbe die Queen[/i]"
    ],
    "id": "78164",
-   "intro": "Der Name ist Lawina, Amina Lawina....",
+   "intro": "Der Name ist Havana, Stravana Havana....",
    "isValid": "",
    "outro": null,
-   "question": "Welchen James Bond Film würdest du am ehesten anschauen?",
-   "questionShort": "Noch nicht gefilmte 007 Filme",
+   "question": "Welchen James Bond-Film würdest du am ehesten anschauen?",
+   "questionShort": "Noch nicht gefilmte 007-Filme",
    "round": "first",
    "us": false,
    "x": true
@@ -2773,7 +2773,7 @@
     "Caesar",
     "Cheddar-Soße",
     "Tabasco",
-    "Süßsauer-Soße",
+    "Süß-Sauer-Soße",
     "Mayonnaise",
     "Aioli",
     "Zwiebelsoße",
@@ -2910,7 +2910,7 @@
    "intro": "No hablo español!",
    "isValid": "",
    "outro": null,
-   "question": "Okay Leute, Zeit ein paar Tacos zusammenzuwürfeln!",
+   "question": "Okay Leute, Zeit, ein paar Tacos zusammenzuwürfeln!",
    "questionShort": "Tacos zubereiten",
    "round": "first",
    "us": true,
@@ -2989,7 +2989,7 @@
   {
    "category": "favorite",
    "choices": [
-    "In einer Pop Band",
+    "In einer Pop-Band",
     "Einfach heiß",
     "Spielt Gitarre",
     "Sexy Vampir (Film)",
@@ -3178,13 +3178,13 @@
     "Große angezündete Kerze",
     "Zwei kleine Spielzeugautos",
     "Küchenmesser",
-    "[i]My little Pony[/i]-Plüschtier"
+    "[i]My Little Pony[/i]-Plüschtier"
    ],
    "id": "78509",
    "intro": null,
    "isValid": "",
    "outro": null,
-   "question": "Oh nein, jemand hat dich beim Duschen erwischt. Schnell, greif nach etwas um deine Genitalien zu verdecken!",
+   "question": "Oh nein, jemand hat dich beim Duschen erwischt. Schnell, greif nach etwas, um deine Genitalien zu verdecken!",
    "questionShort": "Versteck deine Scham",
    "round": "third",
    "us": false,
@@ -3394,7 +3394,7 @@
    "intro": null,
    "isValid": "",
    "outro": null,
-   "question": "Arrr Käpt'n. Es wird Zeit, Kameraden auszusuchen, die keine Landratten sind!",
+   "question": "Arrr, Käpt'n. Es wird Zeit, Kameraden auszusuchen, die keine Landratten sind!",
    "questionShort": "Deine Piratencrew",
    "round": "third",
    "us": false,
@@ -3587,7 +3587,7 @@
    "category": "favorite",
    "choices": [
     "Balut (Hühnerfetus)",
-    "Rocky Mountain Austern (Kalbhoden)",
+    "Rocky Mountain-Austern (Kalbhoden)",
     "Haggis (Schafsmagen)",
     "Hakarl (Fermentiertes Haifleisch)",
     "Escamoles (Ameisenlarven)",
@@ -3941,7 +3941,7 @@
    "isValid": "",
    "outro": null,
    "question": "Diese Sachen sind bei einer neuen Wohnung wichtig!",
-   "questionShort": "Wohnungs-Must-haves",
+   "questionShort": "Wohnungs-Must-Haves",
    "round": "first",
    "us": false,
    "x": false
@@ -4179,16 +4179,16 @@
   {
    "category": "hypothetical",
    "choices": [
-    "Thalia",
-    "dm",
-    "H&M",
-    "Smyths Toys",
-    "McDonald's",
-    "Bijou Brigitte",
-    "Gamestop",
-    "Penny",
-    "Kik",
-    "Fielmann"
+    "[i]Thalia[/i]",
+    "[i]dm[/i]",
+    "[i]H&M[/i]",
+    "[i]Smyths Toys[/i]",
+    "[i]McDonald's[/i]",
+    "[i]Bijou Brigitte[/i]",
+    "[i]GameStop[/i]",
+    "[i]Penny[/i]",
+    "[i]Kik[/i]",
+    "[i]Fielmann[/i]"
    ],
    "id": "79026",
    "intro": null,
@@ -4233,7 +4233,7 @@
     "Designer",
     "Guter Preis",
     "Einfaches Design",
-    "Teuer aber qualitativ hochwertig",
+    "Teuer, aber qualitativ hochwertig",
     "Mid-Top"
    ],
    "id": "79028",
@@ -4305,7 +4305,7 @@
    "id": "79045",
    "intro": null,
    "isValid": "",
-   "outro": "Man sollte meinen ein Geheimversteck in einem Vulkan kostet eine Menge. Aber Wohnungen in Berlin sind noch um einiges teurer.",
+   "outro": "Man sollte meinen, ein Geheimversteck in einem Vulkan kostet eine Menge. Aber Wohnungen in Berlin sind noch um einiges teurer.",
    "question": "Wo baust du dein böses Geheimversteck?",
    "questionShort": "Geheimversteck",
    "round": "third",
@@ -4365,7 +4365,7 @@
     "Tankstelle",
     "Apotheke an der Ecke",
     "Supermarktkette",
-    "Kik",
+    "[i]Kik[/i]",
     "Mensa",
     "Krankenhaus",
     "Foodtruck"
@@ -4413,7 +4413,7 @@
     "Dekorative Badebomben",
     "Lustiges Klobuch",
     "Kleiner Mülleimer",
-    "Eine Ersatz-Rolle Klopapier",
+    "Eine Ersatzrolle Klopapier",
     "Bilder von Leuchttürmen"
    ],
    "id": "79072",
@@ -4549,7 +4549,7 @@
   {
    "category": "hypothetical",
    "choices": [
-    "Da wo [i]Alien[/i] spielt",
+    "Da, wo [i]Alien[/i] spielt",
     "Kometenwelt!",
     "Keine-Luft-Land",
     "Parkplatz für Raketen",
@@ -4665,7 +4665,7 @@
     "London 1881",
     "Paris 1964",
     "Cairo 1400 v. Chr.",
-    "New York  1923",
+    "New York 1923",
     "Athen 300 v. Chr.",
     "Weltall 3022",
     "Rom 150"
@@ -4683,16 +4683,16 @@
   {
    "category": "worst",
    "choices": [
-    "\"Simply Having a Wonderful Christmastime\"",
+    "\"Wonderful Christmastime\"",
     "\"Jingle Bells\"",
     "\"All I Want for Christmas Is You\"",
     "\"In der Weihnachtsbäckerei\"",
-    "\"Oh Tannenbaum\"",
+    "\"Oh, Tannenbaum\"",
     "\"Holly Jolly Christmas\"",
     "\"Stille Nacht\"",
     "\"Rudolph the Red Nosed Reindeer\"",
     "\"Last Christmas\"",
-    "\"Morgen Kinder, wirds was geben\"",
+    "\"Morgen Kinder, wird's was geben\"",
     "\"Santa Baby\""
    ],
    "id": "79188",
@@ -5044,7 +5044,7 @@
     "Lufterfrischer fürs Auto"
    ],
    "id": "79407",
-   "intro": "Es gibt keinen romantischeren Moment, als jemandem zu sagen 'Ich mag dich... aber nicht auf diese Art'.",
+   "intro": "Es gibt keinen romantischeren Moment, als jemandem zu sagen 'Ich mag dich... aber nicht auf diese Art.'",
    "isValid": "",
    "outro": null,
    "question": "Welches Geschenk sagt am besten \"Ich mag dich... als Kumpel\"?",
@@ -5078,8 +5078,8 @@
   {
    "category": "worst",
    "choices": [
-    "Knutschi's Bar",
-    "Konrad's und Corinna's Grilltheke",
+    "Knutschis Bar",
+    "Konrads und Corinnas Grilltheke",
     "Die stinkende Taverne",
     "Das Haus der Masken",
     "Am weitesten weg von daheim-Bar",
@@ -5327,7 +5327,7 @@
    "id": "79521",
    "intro": null,
    "isValid": "",
-   "outro": "Und plötzlich ist Winnie Puh drogenabhängig!",
+   "outro": "Und plötzlich ist Winnie Puuh drogenabhängig!",
    "question": "Von welchem Film würdest du am liebsten ein düsteres Reboot sehen?",
    "questionShort": "Düstere Reboots",
    "round": "second",
@@ -5343,7 +5343,7 @@
     "Kleiner Hai",
     "Baby-Teddybär",
     "Hotdog :)",
-    "Ein Pizza Süßi",
+    "Ein Pizza-Süßi",
     "Ein kleiner Hundepapst!"
    ],
    "id": "79527",
@@ -5425,14 +5425,14 @@
   {
    "category": "favorite",
    "choices": [
-    "Burger King Cola",
-    "McDonald's Sprite",
+    "[i]Burger King-Cola[/i]",
+    "[i]McDonald's[/i]-Sprite",
     "Slushies",
-    "Starbucks' White Chocolate Mocha",
+    "[i]Starbucks[/i]' White Chocolate Mocha",
     "Thailändischer Eistee",
-    "Mountain Dew",
-    "Monster Energy",
-    "Subway's Wasser"
+    "[i]Mountain Dew[/i]",
+    "[i]Monster Energy[/i]",
+    "Wasser von [i]Subway[/i]"
    ],
    "id": "79587",
    "intro": null,
@@ -5601,7 +5601,8 @@
     "George Clooney",
     "Benedict Cumberbatch",
     "Tom Hiddleston",
-    "Hugh Jackman"
+    "Hugh Jackman",
+    "Ryan Reynolds"
    ],
    "id": "79603",
    "intro": null,
@@ -5642,7 +5643,7 @@
     "Schmetterlingsspangen",
     "Große Schiebermütze",
     "Marken-Jogginghosen",
-    "Cargo Shorts",
+    "Cargo-Shorts",
     "Umgedrehte Basecap",
     "Low-Rise-Jeans",
     "Cybergoth-Brille",
@@ -5675,7 +5676,7 @@
    "intro": null,
    "isValid": "",
    "outro": null,
-   "question": "Hmmm... was schreit regelrecht Herbst?",
+   "question": "Hmmm... was schreit regelrecht nach Herbst?",
    "questionShort": "Herbst-Dinge",
    "round": "first",
    "us": false,
@@ -5743,7 +5744,7 @@
    "intro": null,
    "isValid": "",
    "outro": null,
-   "question": "Du bist in einen Brunnen gefallen! Welcher Gegenstand hilft dir am ehesten dabei wieder rauszukommen?",
+   "question": "Du bist in einen Brunnen gefallen! Welcher Gegenstand hilft dir am ehesten, dabei wieder rauszukommen?",
    "questionShort": "Raus aus dem Brunnen",
    "round": "second",
    "us": false,
@@ -5862,16 +5863,16 @@
   {
    "category": "hypothetical",
    "choices": [
-    "Netflix.com",
-    "Facebook.com",
-    "GuteFrage.net",
-    "Twitter.com",
-    "Google.de",
-    "YouTube.com",
-    "Jackbox.gg :D",
-    "Reddit.com",
-    "Spotify.com",
-    "Burgerking.de"
+    "netflix.com",
+    "facebook.com",
+    "gutefrage.net",
+    "twitter.com",
+    "google.de",
+    "youtube.com",
+    "jackbox.gg :D",
+    "reddit.com",
+    "spotify.com",
+    "burgerking.de"
    ],
    "id": "79682",
    "intro": null,
@@ -5908,7 +5909,7 @@
   {
    "category": "set",
    "choices": [
-    "Salted-Caramel",
+    "Salted Caramel",
     "Puffreis",
     "Marshmallow",
     "Brezel",
@@ -5981,10 +5982,10 @@
     "Fuß als Hand benutzen",
     "Zähne benutzen",
     "Creme abwischen",
-    "Warten bis Creme eingezogen ist",
+    "Warten, bis Creme eingezogen ist",
     "Den Ellenbogen einsetzen",
     "Kinn und Hals benutzen",
-    "Mit den Handgelenken vielleicht?",
+    "Mit den Handgelenken, vielleicht?",
     "Schamerfüllt um Hilfe klopfen"
    ],
    "id": "79782",
@@ -6016,7 +6017,7 @@
    "intro": null,
    "isValid": "",
    "outro": null,
-   "question": "Deine Freunde zwingen dich zu einem Gruppentattoo von Dieter Bohlen. Wo lässt du dich tättowieren?",
+   "question": "Deine Freunde zwingen dich zu einem Gruppentattoo von Dieter Bohlen. Wo lässt du dich tätowieren?",
    "questionShort": "Wohin mit dem Tattoo?",
    "round": "second",
    "us": false,
@@ -6032,7 +6033,7 @@
     "Oma anrufen",
     "Bekannten auf einen Kaffee einladen",
     "Sport",
-    "Betwäsche wechseln"
+    "Bettwäsche wechseln"
    ],
    "id": "79803",
    "intro": null,
@@ -6070,7 +6071,7 @@
    "category": "favorite",
    "choices": [
     "Zu einer Kugel gerollt",
-    "Embryostellung",
+    "Embryonalstellung",
     "Auf dem Bauch",
     "Auf dem Rücken",
     "Einfach irgendwie",
@@ -6095,7 +6096,7 @@
     "Angegeben",
     "Vermögen ausgegeben",
     "Überall Lippenstift von dir",
-    "DNS durch... Flüssigkeiten identifiziert",
+    "DNA durch... Flüssigkeiten identifiziert",
     "Naja... schau dich mal an",
     "Von Haustier betrogen",
     "Opfer hat überlebt... Aber wie?!"
@@ -6209,8 +6210,8 @@
    "choices": [
     "Der grüne",
     "Der lilane",
-    "Der mit Totenkopf",
-    "Der auf dem 'sicher' steht",
+    "Der mit dem Totenkopf",
+    "Der, auf dem 'sicher' steht",
     "Der ganz in der Mitte",
     "Der aus Marmor",
     "Der mit Nebel",
@@ -6381,7 +6382,8 @@
     "Safari",
     "Stadt am Meer",
     "Verschneite Berge",
-    "Balkonien"
+    "Balkonien",
+    "Haus am See"
    ],
    "id": "79933",
    "intro": null,
@@ -6440,14 +6442,15 @@
   {
    "category": "hypothetical",
    "choices": [
-    "Tour durch die Twix-Fabrik",
+    "Tour durch die [i]Twix[/i]-Fabrik",
     "Hotdog-Wettessen",
     "Im Sumpf rummatschen",
     "Lasertag gegen Kinder spielen",
     "Mit dem Partner schick essen gehen",
     "Bei einem Flash Mob mitmachen",
     "Schnitzeljagd",
-    "Bares für Rares!"
+    "Bares für Rares!",
+    "Im Publikum bei 'Wer wird Millionär' sein"
    ],
    "id": "79936",
    "intro": null,
@@ -6463,7 +6466,7 @@
    "category": "set",
    "choices": [
     "Lustige Anekdote aus der Kindheit",
-    "Erklären wie man sich getroffen hat",
+    "Erklären, wie man sich getroffen hat",
     "Referenz an ein Missgeschick",
     "Tiefgründiges Zitat",
     "Familienfreundlich",
@@ -6566,7 +6569,7 @@
    "intro": null,
    "isValid": "",
    "outro": null,
-   "question": "Wir können uns kein richtiges Musical leisten und müssen uns deshalb mit einem von diesen zufriedengeben",
+   "question": "Wir können uns kein richtiges Musical leisten und müssen uns deshalb mit einem von diesen zufriedengeben:",
    "questionShort": "Billige Musicals",
    "round": "second",
    "us": true,
@@ -6732,7 +6735,7 @@
     "Steuerberater",
     "Masseur",
     "CEO",
-    "Typ am Tambourin"
+    "Typ am Tamburin"
    ],
    "id": "80314",
    "intro": null,
@@ -6831,7 +6834,7 @@
    "intro": null,
    "isValid": "",
    "outro": null,
-   "question": "Das Musik-Subgenre, welches du am meisten magst! ",
+   "question": "Das Musik-Subgenre, welches du am meisten magst!",
    "questionShort": "Lieblings-Musik-Subgenres",
    "round": "second",
    "us": true,
@@ -6894,8 +6897,8 @@
     "Cracker",
     "Saure Gummibärchen",
     "Nachos",
-    "Scharfe Chickenwings",
-    "Salt & Vinegar Chips",
+    "Scharfe Chicken Wings",
+    "Salt & Vinegar-Chips",
     "Erdnussbutter-Sandwiches"
    ],
    "id": "80321",
@@ -6925,7 +6928,7 @@
    "intro": null,
    "isValid": "",
    "outro": null,
-   "question": "Diesen Kinder-Zeitvertreib, würdest du auch als Erwachsener noch gerne machen",
+   "question": "Diesen Kinder-Zeitvertreib würdest du auch als Erwachsener noch gerne machen",
    "questionShort": "Kinderaktivitäten",
    "round": "first",
    "us": false,
@@ -6936,7 +6939,7 @@
    "choices": [
     "Flanell-Martini",
     "Ironischer Mai Tai",
-    "Long Island Tea aber mit Quinoa",
+    "Long Island Tea, aber mit Quinoa",
     "Caipirinha im Gemüsebowl-Style",
     "Sazerac mit roten [i]Converse[/i]-Schuhen",
     "In Wodka getränkte Fritten",
@@ -7033,7 +7036,7 @@
     "Trinkkumpel",
     "Hört sich deine Probleme an",
     "Fahrgemeinschaft",
-    "Weiß wie du deinen Kaffee magst"
+    "Weiß, wie du deinen Kaffee magst"
    ],
    "id": "80368",
    "intro": null,
@@ -7082,7 +7085,7 @@
     "Schokolinsen",
     "Fischcracker",
     "Rohe Instantnudeln",
-    "Dörrfleisch",
+    "Trockenfleisch",
     "Wasabi-Erbsen",
     "Getrocknete Mangos",
     "Rosinen",
@@ -7173,7 +7176,7 @@
     "Bahnhof",
     "FKK-Strand",
     "Autobahnparkplatz",
-    "Fußballlstadion",
+    "Fußballstadion",
     "24-Stunden-Imbiss"
    ],
    "id": "80377",
@@ -7319,7 +7322,7 @@
     "Lässt dich alles ausprobieren",
     "Gute Deko",
     "Leise",
-    "Teuer aber das Geld wert",
+    "Teuer, aber das Geld wert",
     "Preiswert"
    ],
    "id": "80468",
@@ -7366,7 +7369,7 @@
     "Fahrradhelm",
     "Strandschirm",
     "Coole Stiefel",
-    "Tim"
+    "Die kleinste Person"
    ],
    "id": "80480",
    "intro": null,
@@ -7387,7 +7390,7 @@
     "Ständiges Reimen",
     "Flugblätter können nicht mehr gelesen werden",
     "Enten hassen dich",
-    "Zwinkern alle 30 Minuten",
+    "Alle 30 Minuten zwinkern",
     "Plottwists geben dir Ausschlag"
    ],
    "id": "80481",
@@ -7462,7 +7465,7 @@
    "intro": null,
    "isValid": "",
    "outro": null,
-   "question": "Man zwingt dich eine Erfindung aus der Geschichte der Menschheit zu löschen! Für welche entscheidest du dich?",
+   "question": "Man zwingt dich, eine Erfindung aus der Geschichte der Menschheit zu löschen! Für welche entscheidest du dich?",
    "questionShort": "Weg mit dieser Erfindung!",
    "round": "second",
    "us": false,
@@ -7480,7 +7483,7 @@
    "isValid": "numPlayers >= 6",
    "outro": null,
    "question": "Der Clown ist nicht aufgetaucht! Wer ist die nächstbeste Wahl?",
-   "questionShort": "Bester Clowns-Ersatz",
+   "questionShort": "Bester Clown-Ersatz",
    "round": "third",
    "us": false,
    "x": false
@@ -7553,7 +7556,7 @@
     "Schnöseliger Milliardär",
     "Nettes unsichtbares Alien",
     "Nordischer Gott des Donners",
-    "Grünes wütendes Monster",
+    "Grünes, wütendes Monster",
     "Mutierte Hexe",
     "Der mächtigste Telepath der Welt",
     "Magische Amazonenprinzessin",
@@ -7698,7 +7701,8 @@
     "M",
     "R",
     "ß",
-    "I"
+    "I",
+    "E"
    ],
    "id": "81005",
    "intro": null,
@@ -7727,7 +7731,7 @@
    "isValid": "",
    "outro": null,
    "question": "Eine kleine Kreatur verfolgt dich überall hin! Auf welche hast du ÜBERHAUPT keinen Bock?",
-   "questionShort": "Verhasster Mini-Gast",
+   "questionShort": "Verhasster Minigast",
    "round": "second",
    "us": false,
    "x": false
@@ -7757,7 +7761,7 @@
   {
    "category": "hypothetical",
    "choices": [
-    "Nach Chicken-Nuggets fragen",
+    "Nach Chicken Nuggets fragen",
     "Bestellung des Dates kopieren",
     "Nach der Empfehlung des Hauses fragen",
     "Etwas zufällig auswählen",
@@ -7784,7 +7788,7 @@
     "\"Hausmittel gegen Ausschlag\"",
     "\"Wie begeht man Steuerhinterziehung?\"",
     "\"Nacktszene von [Hier Schauspieler einfügen]\"",
-    "\"Botox Davor & Danach\"",
+    "\"Botox Vorher & Nachher\"",
     "\"Heiße Singles in meiner Umgebung\"",
     "\"Ist Popel essen gesund?\""
    ],
@@ -7906,7 +7910,7 @@
     "\"Da simmer dabei\"",
     "\"Ti Amo\"",
     "\"Dein ist mein ganzes Herz\"",
-    "\"Mit 66. Jahren\""
+    "\"Mit 66 Jahren\""
    ],
    "id": "81072",
    "intro": null,
@@ -8068,7 +8072,7 @@
    "intro": null,
    "isValid": "",
    "outro": null,
-   "question": "Es ist nie zu spät neue Wege zu gehen! Suche dir einen DJ-Namen aus!",
+   "question": "Es ist nie zu spät, neue Wege zu gehen! Suche dir einen DJ-Namen aus!",
    "questionShort": "DJ-Namen",
    "round": "third",
    "us": false,
@@ -8212,10 +8216,10 @@
   {
    "category": "hypothetical",
    "choices": [
-    "Ed's Ekliger Grill",
+    "Eds Ekliger Grill",
     "Das feuchte Brot Diner",
     "Cafe Chernobyl",
-    "100€ Restaurant",
+    "100€-Restaurant",
     "Die Müllhalde",
     "BYOM (Bring Your Own Meal)",
     "Ein paar Haare gehen klar",
@@ -8375,7 +8379,7 @@
     "Irgendwie... der Hals",
     "Der ganze Hintern",
     "55% der Haut",
-    "Irgendein Organ das eh egal ist"
+    "Irgendein Organ, das eh egal ist"
    ],
    "id": "81469",
    "intro": "Puh... Das hier tut mir wirklich leid...",
@@ -8468,7 +8472,8 @@
     "Fred Feuerstein",
     "Til Schweiger",
     "Minnie Mouse",
-    "Deez Nuts"
+    "Deez Nuts",
+    "Stefan Raab"
    ],
    "id": "81944",
    "intro": null,
@@ -8490,17 +8495,17 @@
     "Kissen",
     "Taschentücherbox",
     "Sukkulente im Topf",
-    "Capri-Sonne",
+    "[i]Capri Sun[/i]",
     "Taschenlampe",
     "Anglermütze",
-    "Laser Pointer",
+    "Laserpointer",
     "Dekorativer Stein"
    ],
    "id": "81945",
    "intro": null,
    "isValid": "",
    "outro": null,
-   "question": "Es ist Halloween und du hast voll vergessen Süßigkeiten zu kaufen! Was gibst du den Kiddos vor deiner Tür stattdessen?",
+   "question": "Es ist Halloween und du hast voll vergessen, Süßigkeiten zu kaufen! Was gibst du den Kiddos vor deiner Tür stattdessen?",
    "questionShort": "Nur Saures",
    "round": "first",
    "us": false,
@@ -8509,14 +8514,14 @@
   {
    "category": "hypothetical",
    "choices": [
-    "Den Scammer",
-    "Den langsamen Typ vor dir",
-    "Den, der laut spricht",
-    "Den nervigen Kunden",
+    "Der Scammer",
+    "Der langsamen Typ vor dir",
+    "Der, der laut spricht",
+    "Der nervigen Kunden",
     "Das schreiende Kind",
-    "Die Person die Strafzettel verteilt",
+    "Die Person, die Strafzettel verteilt",
     "Der schlechte Fahrer",
-    "Der Typ der Flyer verteilt"
+    "Der Typ, der Flyer verteilt"
    ],
    "id": "81946",
    "intro": null,
@@ -8579,7 +8584,7 @@
   {
    "category": "worst",
    "choices": [
-    "LEGO",
+    "[i]LEGO[/i]",
     "Ladekabel",
     "Feuchter Teppich",
     "Chips",
@@ -8747,7 +8752,7 @@
     "Auf die Toilette gehen",
     "Gesicht waschen",
     "Arbeitsklamotten anziehen",
-    "Noch schnell was essen oder trinken",
+    "Noch schnell 'was essen oder trinken",
     "Deo draufmachen",
     "Eincremen"
    ],
@@ -8839,14 +8844,14 @@
     "Ansteckpin",
     "Baseballcap",
     "Konzertposter",
-    "Teure limitierte Vinyl"
+    "Teure, limitierte Vinyl"
    ],
    "id": "82234",
    "intro": null,
    "isValid": "",
    "outro": null,
    "question": "Du stehst in der Merch-Ecke nach einem Konzert deiner Lieblingsband. Was kaufst du dir?",
-   "questionShort": "Bestes Band Merch",
+   "questionShort": "Bestes Band-Merchandise",
    "round": "first",
    "us": false,
    "x": false
@@ -8949,7 +8954,7 @@
     "Ganz viele Dialekte",
     "Zweiter Weltkrieg",
     "Verfluchtes Pferd",
-    "Meryl Streep",
+    "Til Schweiger",
     "Liebe",
     "Sehr talentiertes Kind",
     "Mathegenie",
@@ -8960,7 +8965,7 @@
    "isValid": "",
    "outro": "Ein sprechendes Baby muss auch noch rein!",
    "question": "Dein Film MUSS einen Oscar gewinnen. Wie stellst du das sicher?",
-   "questionShort": "Garantierter Oscar Gewinn",
+   "questionShort": "Garantierter Oscar-Gewinn",
    "round": "third",
    "us": false,
    "x": false
@@ -8972,7 +8977,7 @@
     "Weiße Tasse",
     "Kostenlose Werbetasse",
     "Fancy kleine Tasse",
-    "Angebrochene aber große Tasse",
+    "Angebrochene, aber große Tasse",
     "Tasse mit viel zu großem Halter",
     "Tasse mit schlechtem Witz",
     "Kevins Tasse. Kevin ist scheiße."
@@ -9041,7 +9046,8 @@
     "&",
     "*",
     "+",
-    ";"
+    ";",
+    "."
    ],
    "id": "82480",
    "intro": null,
@@ -9069,7 +9075,7 @@
    "intro": null,
    "isValid": "",
    "outro": null,
-   "question": "Es ist 2 Uhr Nachts, warum bist du noch wach?",
+   "question": "Es ist 2 Uhr nachts, warum bist du noch wach?",
    "questionShort": "Nachtaktivitäten",
    "round": "first",
    "us": false,
@@ -9085,7 +9091,7 @@
     "Flackerndes Licht",
     "Tropfende Decke",
     "Eine Menge Puppenhäuser",
-    "Wasserglas das gefährlich nah am Tischrand steht"
+    "Wasserglas, das gefährlich nah am Tischrand steht"
    ],
    "id": "82545",
    "intro": "Ein wahrer Einblick in dein Zuhause.",
@@ -9101,7 +9107,7 @@
    "category": "set",
    "choices": [
     "Weicher funky Käse",
-    "Harter nussiger Käse",
+    "Harter, nussiger Käse",
     "Getrocknetes Fleisch",
     "Cracker mit Käse",
     "Frische Früchte",
@@ -9230,7 +9236,7 @@
    "category": "set",
    "choices": [
     "Sprechende Pflanzen",
-    "Leckerer essbarer Dreck",
+    "Leckerer, essbarer Dreck",
     "Immer 27°C",
     "Ganz viel Strand",
     "Heiße Aliens",
@@ -9310,7 +9316,7 @@
    "intro": null,
    "isValid": "",
    "outro": null,
-   "question": "Du bekommst auf einem Roadtrip mit deinen Freunden das Auxkabel! Was spielst du?",
+   "question": "Du bekommst auf einem Roadtrip mit deinen Freunden das Aux-Kabel! Was spielst du?",
    "questionShort": "Auxkabel-Entscheidungen",
    "round": "first",
    "us": false,
@@ -9395,7 +9401,7 @@
     "Schreiende Ziegen",
     "Romantisches Lagerfeuer-Knistern",
     "Feuerwerk",
-    "DJ Signalhorn ",
+    "DJ Signalhorn",
     "Buh-Rufe",
     "Kirchenglocken",
     "Heulende Wölfe",
@@ -9475,7 +9481,7 @@
     "Subway Sub",
     "Hühnchen Tikka Masala",
     "Windbeutel",
-    "Chili Cheese Fritten",
+    "Chili Cheese-Fritten",
     "Suppe",
     "Erdbeereis in der Waffel",
     "Panini"
@@ -9517,7 +9523,8 @@
     "Ciabatta",
     "Roggen",
     "Pita",
-    "Naan"
+    "Naan",
+    "Kastenbrot"
    ],
    "id": "82665",
    "intro": null,
@@ -9538,7 +9545,7 @@
     "Autoritätspersonen mögen dich",
     "Kleines Haus auf dem Land",
     "Dienstags telepathische Fähigkeiten",
-    "Essen ohne Zuzunehmen",
+    "Essen ohne zuzunehmen",
     "Teleportation"
    ],
    "id": "82666",
@@ -9557,7 +9564,7 @@
     "Streicheshop",
     "Brezelstand",
     "Arcade",
-    "T-Shirtladen",
+    "T-Shirt-Laden",
     "Nagelstudio",
     "Kerzenladen",
     "Massagestuhl",
@@ -9566,7 +9573,7 @@
     "Schnickschnackladen",
     "Kleiderladen",
     "Tattooshop",
-    "Ein Euro Shop",
+    "1€-Shop",
     "Imbiss"
    ],
    "id": "82667",
@@ -9819,7 +9826,7 @@
    "intro": "Das ist natürlich absolut nichts persönliches!",
    "isValid": "numPlayers >= 6",
    "outro": null,
-   "question": "Du hast ein (1) Sandwich. Mit wem teilst du es?",
+   "question": "Du hast ein einziges Sandwich. Mit wem teilst du es?",
    "questionShort": "Brav teilen",
    "round": "second",
    "us": false,
@@ -9938,7 +9945,8 @@
    "choices": [
     "{{PLAYERS}}",
     "Miley Cyrus",
-    "Dwayne Johnson"
+    "Dwayne Johnson",
+    "Der grüne Teletubby"
    ],
    "id": "82723",
    "intro": null,
@@ -10067,7 +10075,7 @@
    "intro": null,
    "isValid": "",
    "outro": null,
-   "question": "Zeit dein Buch wegzulegen. Wie merkst du dir auf welcher Seite du warst?",
+   "question": "Zeit, dein Buch wegzulegen. Wie merkst du dir, auf welcher Seite du warst?",
    "questionShort": "Bucherinnerung",
    "round": "first",
    "us": false,
@@ -10245,7 +10253,7 @@
     "Sonnenbrand",
     "ToiToi-Toiletten",
     "Immer so durstig",
-    "Der Typ der crowdsurfen will",
+    "Der Typ, der crowdsurfen will",
     "Rumlaufen und rumstehen"
    ],
    "id": "83279",
@@ -10327,7 +10335,7 @@
     "Batmobil",
     "James Bonds Auto",
     "Marty McFlys DeLorean",
-    "John Wick's Mustang",
+    "John Wicks Mustang",
     "ECTO-1 der Ghostbusters",
     "Herbie",
     "Lightning McQueen",
@@ -10497,7 +10505,7 @@
     "Zahnarztmesse",
     "FKK-Strand",
     "Stecknadelfabrik",
-    "Bingo-Halle",
+    "Bingohalle",
     "Auktionshaus"
    ],
    "id": "83476",
@@ -10596,7 +10604,7 @@
    "intro": null,
    "isValid": "",
    "outro": null,
-   "question": "Mit dieser prominenten Person würdest du gerne eine Woche verbringen",
+   "question": "Mit dieser prominenten Person würdest du gerne eine Woche verbringen?",
    "questionShort": "Rumhängen mit Prominenz",
    "round": "third",
    "us": false,
@@ -10660,7 +10668,7 @@
     "Prinzessin beweist sich selbst",
     "Mädchen freundet sich mit Monster an",
     "Onkel tötet Vater",
-    "Jeder kann Spider-Man sein"
+    "Jeder kann Spider Man sein"
    ],
    "id": "83534",
    "intro": "Meine Höhle ist komplett staubfrei! Daran können die Tränen also nicht liegen.",
@@ -10834,7 +10842,7 @@
    "choices": [
     "{{PLAYERS}}",
     "Aufgetauter Höhlenmensch",
-    "John Cena"
+    "Christian Solmecke"
    ],
    "id": "83612",
    "intro": null,
@@ -10873,18 +10881,18 @@
    "choices": [
     "im Ozean schwimmen",
     "auf Trampolin springen",
-    "10km rennen",
+    "Marathon laufen",
     "in einem Musical mitspielen",
     "Achterbahn",
     "Hochzeitszeremonie leiten",
-    "Crowd Surfing bei einem Konzert",
+    "Crowdsurfing bei einem Konzert",
     "Sauna"
    ],
    "id": "83614",
    "intro": null,
    "isValid": "",
    "outro": null,
-   "question": "Was sollte man nicht machen, nachdem man sich ein Footlong bei Subway einverleibt hat?",
+   "question": "Was sollte man nicht machen, nachdem man sich einen Footlong bei Subway einverleibt hat?",
    "questionShort": "Aktivitäten nach einem Sandwich",
    "round": "second",
    "us": false,
@@ -10936,7 +10944,7 @@
    "intro": null,
    "isValid": "",
    "outro": null,
-   "question": "Ab gehts in den Zoo! Was willst du am meisten sehen?",
+   "question": "Ab geht's in den Zoo! Was willst du am meisten sehen?",
    "questionShort": "Beste Zoo-Attraktionen",
    "round": "first",
    "us": false,
@@ -10977,7 +10985,7 @@
     "Ruhige Ecke",
     "Toilettenschlange",
     "Bei dem Bierfass",
-    "Da wo auch eine Couch ist",
+    "Da, wo auch eine Couch ist",
     "Ohnmächtig auf dem Boden"
    ],
    "id": "83658",
@@ -11004,7 +11012,7 @@
     "Familien feinden sich an",
     "Schlechte Musiker",
     "Torte wird fallengelassen",
-    "Austragungsort ist McDonald's"
+    "Austragungsort ist [i]McDonald's[/i]"
    ],
    "id": "83663",
    "intro": null,
@@ -11058,7 +11066,7 @@
    "intro": "Versucht bei der hier nicht zu weinen...",
    "isValid": "",
    "outro": null,
-   "question": "Welcher ist dein Lieblings-Pixar-Film?",
+   "question": "Welcher ist dein Lieblings-[i]Pixar[/i]-Film?",
    "questionShort": "Dein Lieblings-Pixar",
    "round": "first",
    "us": false,
@@ -11075,13 +11083,14 @@
     "Nürnberg",
     "Dresden",
     "Freiburg",
-    "Duisburg"
+    "Duisburg",
+    "Castrop-Rauxel"
    ],
    "id": "83681",
    "intro": null,
    "isValid": "",
    "outro": null,
-   "question": "Dein Job ermöglicht es dir überall in Deutschland zu leben. Wo möchtest du leben?",
+   "question": "Dein Job ermöglicht es dir, überall in Deutschland zu leben. Wo möchtest du leben?",
    "questionShort": "Deutsche Städte",
    "round": "first",
    "us": false,
@@ -11094,7 +11103,7 @@
     "DJ im Club",
     "Badezimmer-Selfie",
     "Gruppenfoto bei Beerdigung",
-    "Aggressives zeigen von Reichtum",
+    "Aggressives Zeigen von Reichtum",
     "Betrunken bei Sportspiel",
     "Präsentiert tragisches Tattoo",
     "Keine Menschen, nur Pferde"
@@ -11552,7 +11561,7 @@
    "isValid": "",
    "outro": null,
    "question": "Was ist deiner Meinung nach das Beste daran, Dracula zu sein?",
-   "questionShort": "Dracula-Vorteile",
+   "questionShort": "Vorteile Draculas",
    "round": "third",
    "us": false,
    "x": false
@@ -11753,7 +11762,7 @@
    "intro": null,
    "isValid": "",
    "outro": null,
-   "question": "Willkommen beim Wrestling! Was ist dein Finishing-Move?",
+   "question": "Willkommen beim Wrestling! Was ist dein Finishing Move?",
    "questionShort": "Finishing-Moves",
    "round": "third",
    "us": true,
@@ -12261,7 +12270,7 @@
    "intro": null,
    "isValid": "",
    "outro": null,
-   "question": "Welcher [i]Super Mario World[/i] Gegner würde im echten Leben am verstörendsten aussehen?",
+   "question": "Welcher [i]Super Mario World[/i]-Gegner würde im echten Leben am verstörendsten aussehen?",
    "questionShort": "Real Life Mario Gegner",
    "round": "third",
    "us": false,
@@ -12806,7 +12815,8 @@
     "Große Bleistifte",
     "Schulmaskottchen",
     "Ein vergrößertes Bild von mir",
-    "Weltraum"
+    "Weltraum",
+    "Betonwand"
    ],
    "id": "85486",
    "intro": null,
@@ -13286,7 +13296,7 @@
   {
    "category": "hypothetical",
    "choices": [
-    "“So tun” als würde man sich küssen",
+    "\"So tun\", als würde man sich küssen",
     "Pferdekostüm für zwei",
     "In die Schlucht springen",
     "Wie Kellner verhalten",
@@ -13362,7 +13372,7 @@
     "Lustige Missverständnisse",
     "Bösartige Beleidigungen",
     "Tragische Wendungen in der Handlung",
-    "Dadurch komm ich gebildet rüber",
+    "Dadurch komm' ich gebildet rüber",
     "Die Romantik!",
     "Die Kostüme",
     "Das Bühnenbild",
@@ -13389,7 +13399,7 @@
     "Gestrandetes Rettungsboot",
     "Ultramarathon",
     "Unterirdischer Luftschutzbunker",
-    "McDonald's",
+    "[i]McDonald's[/i]",
     "Wachsfigurenkabinett"
    ],
    "id": "85808",
