@@ -1397,7 +1397,7 @@
     "Die gute alte Pflanzennummer",
     "Goldspray",
     "Ein Tablett mit Häppchen",
-    "Das Gesicht von Til Schweiger"
+    "Das Gesicht von Oliver Pocher"
    ],
    "id": "77339",
    "intro": "Oh nein, nicht das schon wieder!!",
@@ -1788,14 +1788,14 @@
   {
    "category": "worst",
    "choices": [
-    "Kaputte Mikrofone",
-    "Die Nachrichten, in schlecht.",
-    "Weinende Influencer",
-    "Zeit für Mundgeräusche",
-    "Vier Stunden Stuhlgang",
-    "Sport",
-    "Traurige Geschichten, schlecht erzählt",
-    "Es war Mord! Juchhu!"
+    "[i]Kaputte Mikrofone[/i]",
+    "[i]Die Nachrichten, in schlecht.[/i]",
+    "[i]Weinende Influencer[/i]",
+    "[i]Zeit für Mundgeräusche[/i]",
+    "[i]Vier Stunden Stuhlgang[/i]",
+    "[i]Sport[/i]",
+    "[i]Traurige Geschichten, schlecht erzählt[/i]",
+    "[i]Es war Mord! Juchhu![/i]"
    ],
    "id": "77654",
    "intro": "Die heutige Episode der Poll Mine wurde gesponsert von...",
@@ -1838,7 +1838,7 @@
     "\"Schrift nicht entzifferbar\"",
     "\"Viel Glück beim nächsten Mal!\"",
     "gekauter Kaugummi",
-    "\"Lol, das merk ich mir\"",
+    "\"Lol das merk ich mir\"",
     "\"Ignorier das Blut!\""
    ],
    "id": "77656",
@@ -2466,7 +2466,7 @@
    "choices": [
     "{{PLAYERS}}",
     "Dora",
-    "Til Schweiger"
+    "Thomas Gottschalk"
    ],
    "id": "78105",
    "intro": null,
@@ -3193,7 +3193,7 @@
   {
    "category": "favorite",
    "choices": [
-    "Til Schweiger",
+    "Tim Bendzko",
     "Peter Fox",
     "Carmen Geiss",
     "Beyoncé",
@@ -3738,7 +3738,7 @@
     "Zwiebel",
     "Brokkoli",
     "Tofu",
-    "Til Schweiger",
+    "Karl Lauterbach",
     "Katze",
     "MiauMiau",
     "Daniela Katzenberger",
@@ -5037,9 +5037,9 @@
     "Ein dutzend Gänseblümchen",
     "4 AAA-Batterien",
     "Selbstgekaufte Kekse",
-    "10€ [i]Amazon[/i]-Gutschein",
+    "10€-[i]Amazon[/i]-Gutschein",
     "Puzzle mit Booten",
-    "Autobiografie von Til Schweiger",
+    "Autobiografie von Michael Wendler",
     "Teeset",
     "Lufterfrischer fürs Auto"
    ],
@@ -5863,16 +5863,16 @@
   {
    "category": "hypothetical",
    "choices": [
-    "netflix.com",
-    "facebook.com",
-    "gutefrage.net",
-    "twitter.com",
-    "google.de",
-    "youtube.com",
-    "jackbox.gg :D",
-    "reddit.com",
-    "spotify.com",
-    "burgerking.de"
+    "Netflix.com",
+    "Facebook.com",
+    "GuteFrage.net",
+    "Twitter.com",
+    "Google.de",
+    "Youtube.com",
+    "Jackbox.gg :D",
+    "Reddit.com",
+    "Spotify.com",
+    "Burgerking.de"
    ],
    "id": "79682",
    "intro": null,
@@ -6569,7 +6569,7 @@
    "intro": null,
    "isValid": "",
    "outro": null,
-   "question": "Wir können uns kein richtiges Musical leisten und müssen uns deshalb mit einem von diesen zufriedengeben:",
+   "question": "Wir können uns kein richtiges Musical leisten und müssen uns deshalb mit einem von diesen zufriedengeben",
    "questionShort": "Billige Musicals",
    "round": "second",
    "us": true,
@@ -6623,7 +6623,7 @@
    "choices": [
     "{{PLAYERS}}",
     "Eine wütende Ziege",
-    "Til Schweiger"
+    "Olaf Scholz"
    ],
    "id": "80168",
    "intro": "Lasset die Spiele beginnen!",
@@ -7701,8 +7701,7 @@
     "M",
     "R",
     "ß",
-    "I",
-    "E"
+    "I"
    ],
    "id": "81005",
    "intro": null,
@@ -8752,7 +8751,7 @@
     "Auf die Toilette gehen",
     "Gesicht waschen",
     "Arbeitsklamotten anziehen",
-    "Noch schnell 'was essen oder trinken",
+    "Noch schnell was essen oder trinken",
     "Deo draufmachen",
     "Eincremen"
    ],
@@ -8954,7 +8953,7 @@
     "Ganz viele Dialekte",
     "Zweiter Weltkrieg",
     "Verfluchtes Pferd",
-    "Til Schweiger",
+    "Elyas M'Barek",
     "Liebe",
     "Sehr talentiertes Kind",
     "Mathegenie",
@@ -9826,7 +9825,7 @@
    "intro": "Das ist natürlich absolut nichts persönliches!",
    "isValid": "numPlayers >= 6",
    "outro": null,
-   "question": "Du hast ein einziges Sandwich. Mit wem teilst du es?",
+   "question": "Du hast ein (1) Sandwich. Mit wem teilst du es?",
    "questionShort": "Brav teilen",
    "round": "second",
    "us": false,
