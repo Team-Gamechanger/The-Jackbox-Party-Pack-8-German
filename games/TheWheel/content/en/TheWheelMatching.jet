@@ -2935,7 +2935,7 @@
    ],
    "id": "78443",
    "isValid": "",
-   "prompt": "Ordne das [i]Tatort[i]-Ermittlerduo seiner Stadt zu",
+   "prompt": "Ordne das [i]Tatort[/i]-Ermittlerduo seiner Stadt zu",
    "promptHeader": "[i]Tatort[/i]-Ermittler und ihr Revier",
    "us": false,
    "x": false
