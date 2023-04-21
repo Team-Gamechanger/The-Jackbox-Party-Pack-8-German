@@ -9,7 +9,7 @@
 	"showBuildVersion":"true",
 	"supportsMouse":"true",
 	"logging":"false",
-	"joinUrl":"jackbox.gg",
+	"joinUrl":"jackbox.de",
 	"isBundle":"true",
 	"reportMetrics":"false",
 	"legalText":"jackboxFmodCriware",

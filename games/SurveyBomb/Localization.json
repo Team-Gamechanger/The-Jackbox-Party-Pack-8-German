@@ -33,7 +33,7 @@
             "HIDE": "Verstecken",
             "UNHIDE": "Zeigen",
             "HIDDEN_ROOM_CODE": "?????",
-            "JOIN": "Beitreten auf jackbox.gg",
+            "JOIN": "Beitreten auf jackbox.de",
             "PLAY": "Spielen",
             "SETTINGS": "Optionen",
             "BACK_TO_PACK": "Zurück",
@@ -88,7 +88,7 @@
 
             "GLOBAL_ROOM_CODE_LABEL": "Raumcode",
             "GLOBAL_ROOM_CODE_SIMPLE_LABEL": "Raumcode",
-            "GLOBAL_ROOM_CODE_REMINDER_LABEL": "jack<br/>box<br/>.gg",
+            "GLOBAL_ROOM_CODE_REMINDER_LABEL": "jack<br/>box<br/>.de",
 
             "FILTER_PLAYERNAME": "Prompts mit Spielernamen filtern",
             "FILTER_PLAYERNAME_DESCRIPTION": "Entfernt Prompts, die die Namen der Spieler einbeziehen.",

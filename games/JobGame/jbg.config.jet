@@ -7,7 +7,7 @@
 	"uaAppName":"JobGame",
 	"uaVersionId":"0.0.1",
 	"maxSecondsWaitingForAudienceVotes":"3",
-	"joinUrl":"jackbox.gg",
+	"joinUrl":"jackbox.de",
 	"uaAppId":"JobGame",
 	"isBundle":"true",
 	"gameTag":"apply-yourself",
