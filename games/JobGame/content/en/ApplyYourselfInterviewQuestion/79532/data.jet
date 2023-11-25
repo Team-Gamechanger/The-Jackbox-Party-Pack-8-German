@@ -9,11 +9,11 @@
    "t": "A",
    "v": "question",
    "n": "QuestionAudio",
-   "s": "Wir haben den Social Media Profil gefunden... Kannst du mir erklären, was du da auf dem Foto gemacht hast?"
+   "s": "Wir haben dein Social-Media-Profil gefunden... Kannst du mir erklären, was du da auf dem Foto gemacht hast?"
   },
   {
    "t": "S",
-   "v": "Wir haben den Social Media Profil gefunden... Kannst du mir erklären, was du da auf dem Foto gemacht hast?",
+   "v": "Wir haben dein Social-Media-Profil gefunden... Kannst du mir erklären, was du da auf dem Foto gemacht hast?",
    "n": "QuestionText"
   },
   {
