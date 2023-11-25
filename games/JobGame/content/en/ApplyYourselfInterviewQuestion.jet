@@ -2699,7 +2699,7 @@
   {
    "id": "78289",
    "isValid": "",
-   "question": "Den Kollegen ist aufgefallen, dass du während der Arbeitszeit das Social Media Profil vom neuen Freund deiner Ex durchscrollst. Was ist deine Erklärung?",
+   "question": "Den Kollegen ist aufgefallen, dass du während der Arbeitszeit das Social-Media-Profil vom neuen Freund deiner Ex durchscrollst. Was ist deine Erklärung?",
    "round": "two",
    "round3Header": null,
    "x": false
@@ -3243,7 +3243,7 @@
   {
    "id": "79532",
    "isValid": "",
-   "question": "Wir haben den Social Media Profil gefunden... Kannst du mir erklären, was du da auf dem Foto gemacht hast?",
+   "question": "Wir haben dein Social-Media-Profil gefunden... Kannst du mir erklären, was du da auf dem Foto gemacht hast?",
    "round": "two",
    "round3Header": "",
    "x": false
