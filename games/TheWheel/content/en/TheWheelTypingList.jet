@@ -394,8 +394,11 @@
                 {
                     "altSpellings": [
                         "Substantiv",
+                        "Substantive",
                         "Hauptwort",
+                        "Hauptwörter",
                         "Namenwort",
+                        "Namenwörter",
                         "Substantivum"
                     ],
                     "hint": "",
@@ -404,10 +407,13 @@
                 {
                     "altSpellings": [
                         "Tunwort",
+                        "Tunwörter",
                         "Tuwort",
+                        "Tuwörter",
                         "Tätigkeitswort",
                         "Zeitwort",
-                        "Verbum"
+                        "Verbum",
+                        "Verben"
                     ],
                     "hint": "Welches Wort behandelt die Dinge, die man TUT?",
                     "text": "Verb"
@@ -415,7 +421,9 @@
                 {
                     "altSpellings": [
                         "adj",
-                        "Eigenschaftswort"
+                        "Eigenschaftswort",
+                        "Adjektive",
+                        "Eigenschaftwörter"
                     ],
                     "hint": "unglaublich, enorm, majestätisch... sorry, Ich rede nur von mir selbst",
                     "text": "Adjektiv"
@@ -423,7 +431,8 @@
                 {
                     "altSpellings": [
                         "Pro Nomen",
-                        "Fürwort"
+                        "Fürwort",
+                        "Fürwörter"
                     ],
                     "hint": "",
                     "text": "Pronomen"
@@ -431,20 +440,26 @@
                 {
                     "altSpellings": [
                         "ad verb",
-                        "Adverbien"
+                        "Adverbien",
+                        "Adverben"
                     ],
                     "hint": "",
                     "text": "Adverb"
                 },
                 {
-                    "altSpellings": [],
+                    "altSpellings": [
+                        "Präpositionen"
+                    ],
                     "hint": "Vor, hinter, über, zwischen... nur so als Beispiele",
                     "text": "Präposition"
                 },
                 {
                     "altSpellings": [
+                        "Konjunktionen",
                         "Bindewort",
+                        "Bindewörter",
                         "Fügewort",
+                        "Fügewörter",
                         "Junktion"
                     ],
                     "hint": "Und... oder... aber.",
@@ -452,7 +467,8 @@
                 },
                 {
                     "altSpellings": [
-                        "Empfindungswort"
+                        "Empfindungswort",
+                        "Interjektionen"
                     ],
                     "hint": "Hier ist ein Tipp: HEY!!!... Hat das geholfen?",
                     "text": "Interjektion"
@@ -466,7 +482,8 @@
                     "altSpellings": [
                         "Numeral",
                         "Zahl",
-                        "Zahlwort"
+                        "Zahlwort",
+                        "Zahlen"
                     ],
                     "hint": "",
                     "text": "Numerale"
