@@ -7336,28 +7336,6 @@
    "x": false
   },
   {
-   "category": "worst",
-   "choices": [
-    "Backofen",
-    "Toilette",
-    "Kühlschrank",
-    "Sofa",
-    "Tisch",
-    "Bett",
-    "Seife (egal welche)",
-    "Buch"
-   ],
-   "id": "80476",
-   "intro": null,
-   "isValid": "",
-   "outro": null,
-   "question": "Du besuchst zum ersten Mal einen Kumpel. Und du erfährst, dass er diese Sache gestohlen hat...",
-   "questionShort": "Schlimmste Beute",
-   "round": "second",
-   "us": false,
-   "x": false
-  },
-  {
    "category": "hypothetical",
    "choices": [
     "Fotoalbum",
@@ -8792,9 +8770,9 @@
    "choices": [
     "Niedliche Kleidung",
     "Dekoration",
-    "Ein heruntergesetzter TV",
+    "Ein reduzierter TV",
     "Toilettenpapier",
-    "Reinigungsprodukte",
+    "Reinigungs-Produkte",
     "Videospiele",
     "Preiswerte Möbel",
     "Großer Topf mit Nüssen"
