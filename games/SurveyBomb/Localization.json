@@ -40,7 +40,7 @@
             "PLAY_DESCRIPTION": "Raum erstellen & spielen",
             "SETTINGS_DESCRIPTION": "Zensieren, Publikum & mehr",
             "BACK_TO_PACK_DESCRIPTION": "Zurück zum Party Pack",
-            "STREAMER_MODE": "Streamer Modus",
+            "STREAMER_MODE": "Streamer-Modus",
             "STREAMER_MODE_DESCRIPTION": "Spielt gegen euer Publikum! Streamer in einem Team, Publikum im anderen. <br> Wir empfehlen, in den Optionen vor dem Spielstart ein Passwort festzulegen.",
             "SETTINGS_TITLE": "OPTIONEN",
             "CONNECTING": "Verbinde mit den Jackbox Games Services",
@@ -231,7 +231,7 @@
             "SURVEY_ROUND_HEADER": "Beantwortet die Umfrage",
             "TIMES_UP_MESSAGE_TEXT": "Die Zeit ist um!",
             "GAME_END_MESSAGE_TEXT": "Eine richtige Antwort beendet das Spiel!",
-            "AUDIENCE_COUNT_TEXT": "Publikum mit %s",
+            "AUDIENCE_COUNT_TEXT": "%s im Publikum",
             "AUDIENCE_REVEAL_PERCENT_GUESS_CORRECT": "%s%<br>VOM PUBLIKUM<br>HATTEN<br>RECHT",
             "AUDIENCE_REVEAL_PERCENT_GUESS_INCORRECT": "%s%<br>VOM PUBLIKUM<br>LAGEN<br>FALSCH",
 
