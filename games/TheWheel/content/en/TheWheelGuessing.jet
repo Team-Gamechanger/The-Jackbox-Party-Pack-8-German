@@ -835,8 +835,8 @@
    "category": "Food & Drink",
    "clues": [
     {
-     "clue": "Die Innentemperatur des Steaks beträgt dabei rund 70 °C.",
-     "clueComment": "Die Innentemperatur des Steaks beträgt dabei rund 70 °C. Das ist immerhin das doppelte der normalen Körpertemperatur von euch Menschen."
+     "clue": "Die Innentemperatur des Steaks beträgt dabei rund 70 Grad Celsius.",
+     "clueComment": "Die Innentemperatur des Steaks beträgt dabei rund 70 Grad Celsius. Das ist immerhin das doppelte der normalen Körpertemperatur von euch Menschen."
     },
     {
      "clue": "Die Garzeit beträgt sechseinhalb Minuten pro Seite.",
