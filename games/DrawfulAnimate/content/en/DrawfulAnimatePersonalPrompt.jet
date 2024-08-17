@@ -894,7 +894,7 @@
    "id": "80942",
    "isValid": "",
    "joke": null,
-   "prompt": "{{PLAYER}} nach einer stornierung",
+   "prompt": "{{PLAYER}} nach einer absage",
    "tags": [
     "subjective"
    ],
@@ -1128,7 +1128,7 @@
    "tags": [
     "nonhuman"
    ],
-   "title": "{{PLAYER}} is...",
+   "title": "{{PLAYER}}...",
    "x": false
   },
   {
@@ -1378,7 +1378,7 @@
    "id": "82853",
    "isValid": "",
    "joke": null,
-   "prompt": "{{PLAYER}} als nebendarsteller in seinem lieblingsfilm",
+   "prompt": "{{PLAYER}} als nebendarsteller im eigenen lieblingsfilm",
    "tags": [
     "da-personal"
    ],
@@ -1462,7 +1462,7 @@
    "id": "83073",
    "isValid": "",
    "joke": null,
-   "prompt": "{{PLAYER}} verschwendet ihren wunderlampen wunsch für schrott",
+   "prompt": "{{PLAYER}} verschwendet den wunderlampen wunsch für schrott",
    "tags": [
     "da-personal",
     "literal"
@@ -2273,7 +2273,7 @@
    "tags": [
     "da-personal"
    ],
-   "title": "{{PLAYER}}'s...",
+   "title": "{{PLAYER}}...",
    "x": false
   },
   {
@@ -2755,11 +2755,11 @@
    "id": "86409",
    "isValid": "",
    "joke": null,
-   "prompt": "{{PLAYER}}'s idea of true bliss",
+   "prompt": "{{PLAYER}}'s vorstellung von purer entspannung",
    "tags": [
     "da-personal"
    ],
-   "title": "{{PLAYER}}'s idea of...",
+   "title": "{{PLAYER}}'s vorstellung von...",
    "x": false
   },
   {
