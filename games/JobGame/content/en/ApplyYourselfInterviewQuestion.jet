@@ -873,14 +873,6 @@
    "x": false
   },
   {
-   "id": "78464",
-   "isValid": "",
-   "question": "Wie belastbar bist du?",
-   "round": "one",
-   "round3Header": null,
-   "x": false
-  },
-  {
    "id": "78465",
    "isValid": "",
    "question": "In welcher Situation musstest du bereits einmal Führungsqualitäten beweisen?",
@@ -1924,14 +1916,6 @@
    "id": "77269",
    "isValid": "",
    "question": "Lukas verkauft Süßigkeiten für den Karnevalszug seines Sohnes. Was sagst du zu ihm?",
-   "round": "two",
-   "round3Header": null,
-   "x": false
-  },
-  {
-   "id": "77270",
-   "isValid": "",
-   "question": "Wie belastbar bist du?",
    "round": "two",
    "round3Header": null,
    "x": false
