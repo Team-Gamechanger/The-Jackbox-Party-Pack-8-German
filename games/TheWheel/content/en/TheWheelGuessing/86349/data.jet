@@ -51,7 +51,7 @@
       "t": "A",
       "v": "clues_0_clue",
       "n": "ClueAudio0",
-      "s": "Es ist so beliebt in Deutschland, es hat sogar einen eigenen Feiertag!"
+      "s": "Es ist so beliebt in Deutschland, es hat sogar einen eigenen Feiertag! Den ersten Juni! Warum der erste Juni? Das weiß keiner."
     },
     {
       "t": "B",
@@ -73,7 +73,7 @@
       "t": "A",
       "v": "clues_1_clue",
       "n": "ClueAudio1",
-      "s": "Es hat eine helle Farbe, was auf den Fettgehalt zurückzuführen ist."
+      "s": "Es hat eine helle Farbe, was auf den Fettgehalt zurückzuführen ist. Was in meinen Augen sofort ein No-Go ist."
     },
     {
       "t": "B",
@@ -95,7 +95,7 @@
       "t": "A",
       "v": "clues_2_clue",
       "n": "ClueAudio2",
-      "s": "Es kommt von einem lebenden Tier."
+      "s": "Es kommt von einem lebenden Tier. Ich wiederhole: ES KOMMT VON EINEM LEBENDEN TIER."
     },
     {
       "t": "B",
@@ -117,7 +117,7 @@
       "t": "A",
       "v": "clues_3_clue",
       "n": "ClueAudio3",
-      "s": "Es ist für Babys gedacht."
+      "s": "Es ist für Babys gedacht. Ihr klaut also von Babys! Ich bin so enttäuscht!"
     },
     {
       "t": "B",

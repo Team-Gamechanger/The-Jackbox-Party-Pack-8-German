@@ -52,7 +52,7 @@
       "t": "A",
       "v": "clues_0_clue",
       "n": "ClueAudio0",
-      "s": "Die Innentemperatur des Steaks beträgt dabei rund 70 °C."
+      "s": "Die Innentemperatur des Steaks beträgt dabei rund 70 °C. Das ist immerhin das doppelte der normalen Körpertemperatur von euch Menschen."
     },
     {
       "t": "B",
@@ -74,7 +74,7 @@
       "t": "A",
       "v": "clues_1_clue",
       "n": "ClueAudio1",
-      "s": "Die Garzeit beträgt sechseinhalb Minuten pro Seite."
+      "s": "Die Garzeit beträgt Pi mal Daumen sechseinhalb Minuten pro Seite."
     },
     {
       "t": "B",
@@ -117,7 +117,7 @@
       "t": "A",
       "v": "clues_3_clue",
       "n": "ClueAudio3",
-      "s": "Das Steak sollte relativ fest sein."
+      "s": "Das Steak sollte relativ fest sein. MEINER Meinung nach, okay? Wenn ihr auf matschige Steaks steht, bitte, tut euch keinen Zwang an!"
     },
     {
       "t": "B",

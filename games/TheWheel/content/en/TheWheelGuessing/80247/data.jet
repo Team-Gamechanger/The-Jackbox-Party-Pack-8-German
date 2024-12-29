@@ -51,7 +51,7 @@
       "t": "A",
       "v": "clues_0_clue",
       "n": "ClueAudio0",
-      "s": "Der Herr kommt sogar aus Deutschland."
+      "s": "Der Herr kommt sogar aus Deutschland. Okay, ich sag's euch einfach. Es ist David Hasselhoff. Nein! Ich mach nur Spaß! Gebt nicht Hasselhoff ein."
     },
     {
       "t": "B",
@@ -115,7 +115,7 @@
       "t": "A",
       "v": "clues_3_clue",
       "n": "ClueAudio3",
-      "s": "Er hat in Bonn gelebt, Leute!"
+      "s": "Er hat in Bonn gelebt, Leute! Das ist so ziemlich das einzige, womit die Leute in Bonn angeben."
     },
     {
       "t": "B",

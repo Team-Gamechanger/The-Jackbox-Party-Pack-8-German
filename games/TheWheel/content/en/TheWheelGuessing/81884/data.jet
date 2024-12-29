@@ -50,7 +50,7 @@
       "t": "A",
       "v": "clues_0_clue",
       "n": "ClueAudio0",
-      "s": "Es ist ein Musical von [i]Andrew Lloyd Webber[/i]"
+      "s": "Es ist ein Musical von [i]Andrew Lloyd Webber[/i]. Ein GENIE!"
     },
     {
       "t": "B",
@@ -93,7 +93,7 @@
       "t": "A",
       "v": "clues_2_clue",
       "n": "ClueAudio2",
-      "s": "Es geht um den Traum eines Kindes, in welchem es selber eine Weltmeisterschaft austrägt."
+      "s": "Es geht um den Traum eines Kindes, in welchem es selber eine Weltmeisterschaft austrägt. Nein, es ist nicht Fußball!"
     },
     {
       "t": "B",

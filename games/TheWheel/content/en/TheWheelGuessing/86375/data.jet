@@ -51,7 +51,7 @@
       "t": "A",
       "v": "clues_0_clue",
       "n": "ClueAudio0",
-      "s": "Es wurde im April 1912 fertiggestellt."
+      "s": "Es wurde im April 1912 fertiggestellt. Am 2. April, um genau zu sein!"
     },
     {
       "t": "B",
@@ -73,7 +73,7 @@
       "t": "A",
       "v": "clues_1_clue",
       "n": "ClueAudio1",
-      "s": "Es wurde von Harland & Wolff gebaut und galt zur Zeit als unsinkbar."
+      "s": "Es wurde von Harland & Wolff gebaut und galt zur Zeit als unsinkbar. Tja, das hat wohl nicht ganz so gut geklappt."
     },
     {
       "t": "B",
@@ -116,7 +116,7 @@
       "t": "A",
       "v": "clues_3_clue",
       "n": "ClueAudio3",
-      "s": "Der Film wurde nach dem Kreuzfahrtschiff benannt."
+      "s": "Der Film wurde nach dem Kreuzfahrtschiff benannt. Kommt schon Leute, ist das euer Ernst?"
     },
     {
       "t": "B",

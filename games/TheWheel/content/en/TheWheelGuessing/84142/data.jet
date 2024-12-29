@@ -51,7 +51,7 @@
       "t": "A",
       "v": "clues_0_clue",
       "n": "ClueAudio0",
-      "s": "Es beinhaltet viel ruhiges Sitzen und Warten."
+      "s": "Es beinhaltet viel ruhiges Sitzen und Warten. Und nein, es ist nicht “Steuererklärung ausfüllen”."
     },
     {
       "t": "B",
@@ -73,7 +73,7 @@
       "t": "A",
       "v": "clues_1_clue",
       "n": "ClueAudio1",
-      "s": "Personen, die dieser Tätigkeit nachgehen, verbringen viel Zeit damit, auf das Erscheinen einer bestimmten Tierart zu warten."
+      "s": "Personen, die dieser Tätigkeit nachgehen, verbringen viel Zeit damit, auf das Erscheinen einer bestimmten Tierart zu warten. Nein, Stalken gilt nicht als Hobby, danke der Nachfrage."
     },
     {
       "t": "B",
@@ -95,7 +95,7 @@
       "t": "A",
       "v": "clues_2_clue",
       "n": "ClueAudio2",
-      "s": "Wenn dann eines der gesuchten Tiere am Himmel auftaucht, dann... sitzen sie weiter friedlich da."
+      "s": "Wenn dann eines der gesuchten Tiere am Himmel auftaucht, dann... sitzen sie weiter friedlich da, vielleicht schreiben sie ja etwas auf."
     },
     {
       "t": "B",
@@ -117,7 +117,7 @@
       "t": "A",
       "v": "clues_3_clue",
       "n": "ClueAudio3",
-      "s": "Dieser Aktivität geht man nach, wenn man zum Beispiel einen Adler in freier Wildbahn sehen möchte."
+      "s": "Dieser Aktivität geht man nach, wenn man zum Beispiel einen Adler in freier Wildbahn sehen möchte. Wer möchte keinen Adler sehen? Besser als ein Singvogel ist er allemal, da er nicht auf meinen Tisch macht."
     },
     {
       "t": "B",

@@ -72,7 +72,7 @@
       "t": "A",
       "v": "clues_1_clue",
       "n": "ClueAudio1",
-      "s": "In dem Film sieht man sehr... viel von Elyas."
+      "s": "In dem Film sieht man sehr... viel von Elyas. Aber nicht so wie ihr denkt!"
     },
     {
       "t": "B",
@@ -115,7 +115,7 @@
       "t": "A",
       "v": "clues_3_clue",
       "n": "ClueAudio3",
-      "s": "Der Film ist 2019 erschienen!"
+      "s": "Der Film ist 2019 erschienen! Damit sind alle [i]Fack ju Göhte[/i] Teile raus!"
     },
     {
       "t": "B",
@@ -137,7 +137,7 @@
       "t": "A",
       "v": "clues_4_clue",
       "n": "ClueAudio4",
-      "s": "Der Film spielt fast ausschließlich in einer Dachgeschosswohnung in München."
+      "s": "Der Film spielt fast ausschließlich in einer Dachgeschosswohnung in München. Und am Ende stirbt nichtmal einer!"
     },
     {
       "t": "B",

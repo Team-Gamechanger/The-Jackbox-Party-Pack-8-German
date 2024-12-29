@@ -72,7 +72,7 @@
       "t": "A",
       "v": "clues_1_clue",
       "n": "ClueAudio1",
-      "s": "Es ist nicht das Rad."
+      "s": "Es ist nicht das Rad. Ich meine, kommt schon."
     },
     {
       "t": "B",
@@ -94,7 +94,7 @@
       "t": "A",
       "v": "clues_2_clue",
       "n": "ClueAudio2",
-      "s": "Und es ist kein Feuer, aber es ist schon ziemlich heiß."
+      "s": "Und es ist kein Feuer, aber es ist schon ziemlich heiß. Ja, ich weiß. Feuer ist keine Erfindung. Es ist eine nützliche *Entdeckung*, wie das Auberginen-Emoji."
     },
     {
       "t": "B",
@@ -158,7 +158,7 @@
       "t": "A",
       "v": "clues_5_clue",
       "n": "ClueAudio5",
-      "s": "Ohne dieses Bauteil fährt euer Auto nirgendwo hin!"
+      "s": "Ohne dieses Bauteil fährt euer Auto nirgendwo hin! Außer euer Auto ist komplett elektrisch. Sorry, Tesla Besitzer. (nebenbei) Die sind immer so empfindlich..."
     },
     {
       "t": "B",

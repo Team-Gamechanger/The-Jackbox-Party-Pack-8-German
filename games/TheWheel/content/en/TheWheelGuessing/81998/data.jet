@@ -72,7 +72,7 @@
       "t": "A",
       "v": "clues_1_clue",
       "n": "ClueAudio1",
-      "s": "Die australische Hard-Rock-Band hat weltweit schon über 200 Millionen Platten verkauft."
+      "s": "Die gesuchte australische Hard-Rock-Band hat weltweit schon über 200 Millionen Platten verkauft. Warum sagt man eigentlich Platten, wir reden doch nicht von Schallplatten, oder? Sind wir in der Steinzeit?!"
     },
     {
       "t": "B",
@@ -115,7 +115,7 @@
       "t": "A",
       "v": "clues_3_clue",
       "n": "ClueAudio3",
-      "s": "Der Name dieser Band entspricht der englischen Abkürzung für Wechsel- und Gleichstrom."
+      "s": "Der Name dieser Band entspricht der englischen Abkürzung für Wechsel- und Gleichstrom. Das erklärt auch den Blitz im Logo dieser Band."
     },
     {
       "t": "B",
@@ -137,7 +137,7 @@
       "t": "A",
       "v": "clues_4_clue",
       "n": "ClueAudio4",
-      "s": "Ihr kennt die Abkürzungen, oder? [i]AC[/i] für Wechselstrom und [i]DC[/i] für Gleichstrom."
+      "s": "Ihr kennt die Abkürzungen für Gleichstrom und Wechselstrom? [i]AC[/i] für Wechselstrom und [i]DC[/i] für Gleichstrom. Schon mal gehört?"
     },
     {
       "t": "B",

@@ -72,7 +72,7 @@
       "t": "A",
       "v": "clues_1_clue",
       "n": "ClueAudio1",
-      "s": "An den schmalen Wänden dieser Sache befindet sich oftmals Werbung."
+      "s": "Während dem ungeduldigen warten, kann man sich natürlich auch ablenken, indem man Werbeplakate für Banken oder Kreditkarten anschaut, die sich oft an den schmalen Wänden der Sache befinden."
     },
     {
       "t": "B",
@@ -94,7 +94,7 @@
       "t": "A",
       "v": "clues_2_clue",
       "n": "ClueAudio2",
-      "s": "Diese Sache ist im Grunde ein langer ausziehbarer Tunnel auf Rädern."
+      "s": "Diese Sache ist im Grunde ein langer ausziehbarer Tunnel auf Rädern. Denkt man darüber nach, ist es echt seltsam. Es hat Räder, fährt damit aber eigentlich nirgendwo richtig hin. (Realisierend) Hmm, das kann ich irgendwie nachempfinden."
     },
     {
       "t": "B",
@@ -137,7 +137,7 @@
       "t": "A",
       "v": "clues_4_clue",
       "n": "ClueAudio4",
-      "s": "Es überbrückt den Weg zwischen Gate und Flugzeug."
+      "s": "Es überbrückt den Weg zwischen Gate und Flugzeug, das offensichtlicherweise etwas Abstand zum Flughafengebäude halten muss."
     },
     {
       "t": "B",

@@ -93,7 +93,7 @@
       "t": "A",
       "v": "clues_2_clue",
       "n": "ClueAudio2",
-      "s": "Das Holz dieser Baumart wird meist zur Herstellung besonders robuster Möbel oder Weinfässer verwendet."
+      "s": "Das Holz dieser Baumart wird meist zur Herstellung besonders robuster Möbel verwendet. Auch Fässer für die Lagerung von Alkohol wie Wein oder Whisky werden aus diesem Holz gemacht."
     },
     {
       "t": "B",
@@ -115,7 +115,7 @@
       "t": "A",
       "v": "clues_3_clue",
       "n": "ClueAudio3",
-      "s": "Okay, der Name des Baumes reimt sich auf “Streiche”."
+      "s": "Okay, der Name des Baumes reimt sich auf “Streiche”, aber ich mache keine Streiche, wenn ich sage, dass dieser Baum echt schön ist."
     },
     {
       "t": "B",

@@ -50,7 +50,7 @@
       "t": "A",
       "v": "clues_0_clue",
       "n": "ClueAudio0",
-      "s": "Das Transportmittel kann bis zu eine Person transportieren und wird ausschließlich mit Muskelkraft bewegt."
+      "s": "Das Transportmittel kann bis zu eine Person transportieren und wird ausschließlich mit Muskelkraft bewegt. Okay, theoretisch gibt es auch elektrische Versionen, aber die sind irgendwie ziemlich schwachsinnig."
     },
     {
       "t": "B",
@@ -72,7 +72,7 @@
       "t": "A",
       "v": "clues_1_clue",
       "n": "ClueAudio1",
-      "s": "Man kann es benutzen, um entweder von A nach B zu kommen oder um coole Tricks zu machen."
+      "s": "Man kann es benutzen, um entweder von A nach B zu kommen oder um coole Tricks zu machen. Oder sogar beides! Los, beeindrucke alle auf dem Weg zum Park. Oder zum Zahnarzt. Oder zum Krankenhaus, weil du dich auf die Fresse gelegt hast."
     },
     {
       "t": "B",

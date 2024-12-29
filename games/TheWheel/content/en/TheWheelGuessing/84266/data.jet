@@ -72,7 +72,7 @@
       "t": "A",
       "v": "clues_1_clue",
       "n": "ClueAudio1",
-      "s": "Dieser Staat ist eigentlich mehr eine Stadt, also ein Stadtstaat."
+      "s": "Dieser Staat ist eigentlich mehr eine Stadt, also ein Stadtstaat. Sagt das dreimal schnell hintereinander. Stadtstaat, Stadtstaat, Stadtstaat!"
     },
     {
       "t": "B",
@@ -115,7 +115,7 @@
       "t": "A",
       "v": "clues_3_clue",
       "n": "ClueAudio3",
-      "s": "Weltbekannt ist dieser Stadtstaat für sein Casino im Stadtbezirk [i]Monte-Carlo[/i]."
+      "s": "Weltbekannt ist dieser Stadtstaat für sein Casino im Stadtbezirk [i]Monte-Carlo[/i]. Auch finden dort regelmäßig [i]Formel 1[/i]-Rennen statt."
     },
     {
       "t": "B",

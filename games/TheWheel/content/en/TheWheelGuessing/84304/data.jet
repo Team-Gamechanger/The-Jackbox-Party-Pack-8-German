@@ -72,7 +72,7 @@
       "t": "A",
       "v": "clues_1_clue",
       "n": "ClueAudio1",
-      "s": "Wenn du dieses Ding jemand anderem gibst, könntest du 62 Cheeseburger bekommen!"
+      "s": "Wenn du dieses Ding jemand anderem gibst, könntest du 62 Cheeseburger bekommen! Dann hast du sogar noch mehr als einen Euro über!"
     },
     {
       "t": "B",
@@ -94,7 +94,7 @@
       "t": "A",
       "v": "clues_2_clue",
       "n": "ClueAudio2",
-      "s": "Ich sag's euch einfach - es ist ein Geldschein. Der Baustil auf diesem Schein gleicht dem des Barocks."
+      "s": "Ich sag's euch einfach - es ist ein Geldschein. Der Baustil auf diesem Schein gleicht dem des Barocks. Na, kommen bei dieser Epoche Erinnerungen an die Schulzeit hoch?"
     },
     {
       "t": "B",
@@ -116,7 +116,7 @@
       "t": "A",
       "v": "clues_3_clue",
       "n": "ClueAudio3",
-      "s": "Dieser Schein ist grün."
+      "s": "Dieser Schein ist grün. Grün, Grün, Grün, sind alle meine... Entschuldigt mich. Dieser Schein ist grün. Erwähnte ich das bereits?"
     },
     {
       "t": "B",
