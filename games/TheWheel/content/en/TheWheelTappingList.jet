@@ -18432,6 +18432,15 @@
     },
     {
      "text": "[i]Halt mal die Luft an![/i]"
+    },
+    {
+     "text": "[i]Kein Plan von nix[/i]"
+    },
+    {
+     "text": "[i]So ein Schlamassel![/i]"
+    },
+    {
+     "text": "[i]Bock auf Party?[/i]"
     }
    ],
    "category": "Literature",
@@ -18450,6 +18459,9 @@
     },
     {
      "text": "[i]Ach menno![/i]"
+    },
+    {
+     "text": "[i]Genial daneben![/i]"
     }
    ],
    "id": "86448",
