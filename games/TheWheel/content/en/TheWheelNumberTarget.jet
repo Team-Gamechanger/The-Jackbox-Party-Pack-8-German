@@ -1131,16 +1131,6 @@
    "x": false
   },
   {
-   "category": "Historical Figures",
-   "id": "81518",
-   "isValid": "",
-   "prompt": "Wie viele Söhne hat Königin Elizabeth II.?",
-   "unit": "(in königlichen Söhnen)",
-   "us": true,
-   "value": "3",
-   "x": false
-  },
-  {
    "category": "Games",
    "id": "81519",
    "isValid": "",

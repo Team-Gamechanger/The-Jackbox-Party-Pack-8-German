@@ -12603,60 +12603,6 @@
   {
    "answers": [
     {
-     "text": "Evan Williams"
-    },
-    {
-     "text": "Four Roses"
-    },
-    {
-     "text": "Wild Turkey"
-    },
-    {
-     "text": "Maker's Mark"
-    },
-    {
-     "text": "Jim Beam"
-    },
-    {
-     "text": "Blanton's"
-    },
-    {
-     "text": "Pappy Van Winkle"
-    },
-    {
-     "text": "Woodford Reserve"
-    }
-   ],
-   "category": "Food & Drink",
-   "decoys": [
-    {
-     "text": "Jack Daniel's"
-    },
-    {
-     "text": "Johnnie Walker"
-    },
-    {
-     "text": "Bombay Sapphire"
-    },
-    {
-     "text": "Lagavulin"
-    },
-    {
-     "text": "Havana Club"
-    },
-    {
-     "text": "Rotkäppchen"
-    }
-   ],
-   "id": "82101",
-   "isValid": "",
-   "prompt": "Welche davon sind Bourbon-Marken?",
-   "us": false,
-   "x": true
-  },
-  {
-   "answers": [
-    {
      "text": "Neujahr"
     },
     {
