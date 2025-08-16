@@ -1,20 +1,17 @@
 {
-    "table":{
+    "table": {
         "en": {
             "LANGUAGE_NAME": "English",
             "LANGUAGE": "Language",
-
             "INTERNET_CONNECTED": "Internetverbindung hergestellt.",
             "INTERNET_DISCONNECTED": "Es kann keine Verbindung zu den Jackbox Games Services aufgebaut werden.<br />Überprüfe, ob deine Internetverbindung funktioniert.",
             "ROOM_DESTROYED": "Aufgrund eines Netzwerkfehlers wurde der Raum zerstört.<br />Überprüfe, ob deine Internetverbindung funktioniert.",
-            
             "ROOM_EXIT_CAUSE_LOBBY_TIMEOUT": "Aufgrund eines Netzwerkfehlers wurde der Raum zerstört.<br />Überprüfe, ob deine Internetverbindung funktioniert. (Cause: 1)",
             "ROOM_EXIT_CAUSE_JOIN_TIMEOUT": "Aufgrund eines Netzwerkfehlers wurde der Raum zerstört.<br />Überprüfe, ob deine Internetverbindung funktioniert. (Cause: 2)",
             "ROOM_EXIT_CAUSE_GAME_TIMEOUT": "Aufgrund eines Netzwerkfehlers wurde der Raum zerstört.<br />Überprüfe, ob deine Internetverbindung funktioniert. (Cause: 3)",
             "ROOM_EXIT_CAUSE_DISCONNECT": "Aufgrund eines Netzwerkfehlers wurde der Raum zerstört.<br />Überprüfe, ob deine Internetverbindung funktioniert. (Cause: 4)",
             "ROOM_EXIT_CAUSE_BY_REQUEST": "Aufgrund eines Netzwerkfehlers wurde der Raum zerstört.<br />Überprüfe, ob deine Internetverbindung funktioniert. (Cause: 5)",
             "ROOM_EXIT_CAUSE_SHUTTING_DOWN": "Aufgrund eines Netzwerkfehlers wurde der Raum zerstört.<br />Überprüfe, ob deine Internetverbindung funktioniert. (Cause: 6)",
-            
             "SOCKET_DISCONNECTED ": "Die Verbindung zu den Jackbox Games Services wurde verloren.",
             "TIMEOUT": "Eine Verbindung zu den Jackbox Games Services kann nicht aufgebaut werden.<br />Überprüfe, ob deine Internetverbindung funktioniert.",
             "USER_DISCONNECT": "Bedauerlicherweise hat der Server die Verbindung unterbrochen.<br />Bitte versuche es später erneut.",
@@ -22,7 +19,6 @@
             "STEAM_ERROR": "Leider konnte deine Steam-Spielelizenz nicht verifiziert werden.",
             "TWITCH_PRIME_ERROR": "Leider konnte deine Twitch Prime-Mitgliedschaft nicht verifiziert werden.",
             "LOST_DLC": "Leider konnte die Lizenz für diesen DLC nicht gefunden werden.<br />Kehre zurück zum Menü...",
-
             "BACK": "Zurück",
             "CLOSE": "Schließen",
             "CANCEL": "Abbrechen",
@@ -68,7 +64,6 @@
             "LOBBY_STATUS_MESSAGE_COUNTDOWN": "Spielstart abbrechen",
             "LOBBY_STATUS_MESSAGE_WAITINGFORVIP": "Warte auf {VIP} um das Spiel zu starten!",
             "LOBBY_STATUS_MESSAGE_WAITINGFORGAMEPAD": "Warte auf den Spielbeginn!",
-
             "CONTROLLER_SIT_BACK": "LEHN DICH ZURÜCK UND WARTE!",
             "CONTROLLER_WAIT_FOR_PLAYERS": "WARTE AUF WEITERE SPIELER",
             "CONTROLLER_PRESS_EVERYBODYS_IN": "",
@@ -78,30 +73,23 @@
             "CONTROLLER_POSTGAME_CHOICE": "NOCHMAL SPIELEN?",
             "CONTROLLER_SAME_PLAYERS": "GLEICHE SPIELER",
             "CONTROLLER_NEW_PLAYERS": "ANDERE SPIELER",
-
             "LOBBY_SETTINGS": "Optionen",
             "LOBBY_SETTINGS_ICON_MAX": "MAX",
             "LOBBY_SETTINGS_ICON_MOD_PLURAL": "MODS",
             "LOBBY_SETTINGS_ICON_MOD_SINGULAR": "MOD",
-
             "MODERATION_TIMER_LABEL": "Warte auf Moderation",
-
             "GLOBAL_ROOM_CODE_LABEL": "Raumcode",
             "GLOBAL_ROOM_CODE_SIMPLE_LABEL": "Raumcode",
             "GLOBAL_ROOM_CODE_REMINDER_LABEL": "jack<br/>box<br/>.de",
-
             "FILTER_PLAYERNAME": "Prompts mit Spielernamen filtern",
             "FILTER_PLAYERNAME_DESCRIPTION": "Entfernt Prompts, die die Namen der Spieler einbeziehen.",
-
             "SURVEY_PROMPT_CHOICE_TEXT": "Wähle deine %s Antwort",
             "SURVEY_PROMPT_CHOICE_PLACE_0": "erste",
             "SURVEY_PROMPT_CHOICE_PLACE_1": "zweite",
             "SURVEY_PROMPT_CHOICE_PLACE_2": "dritte",
             "SURVEY_PROMPT_CHOICE_PLACE_3": "vierte",
             "SURVEY_PROMPT_CHOICE_PLACE_4": "fünfte",
-
             "RANKING_CHOICE_PROMPT": "Wähle eine Antwort auf die Frage \n%s",
-
             "RANK_ORDINAL_ENDINGS": [
                 ".",
                 ".",
@@ -112,18 +100,13 @@
                 ".",
                 "."
             ],
-
             "DOOR_CHOICE_RANKING": "Nr: %s",
-
             "RULESET_PROMPT_0_0": "Top 3 Antworten",
             "RULESET_PROMPT_1_0": "Antworten\n2, 3, 4",
             "RULESET_PROMPT_2": "Umgekehrt\n(8 bis 1)",
-
             "SKIP_TUTORIAL_INTERACTION_TEXT": "Tutorial überspringen?",
             "SKIP_TUTORIAL_BUTTON_TEXT": "Überspringen",
-
             "AUDIENCE_LABEL": "Publikum",
-
             "ROUND_MAP_WARNING_HEADING_WARNING": "Warnung:",
             "ROUND_MAP_WARNING_HEADING_CAUTION": "Achtung:",
             "ROUND_MAP_WARNING_HEADING_BEWARE": "Vorsicht:",
@@ -188,7 +171,7 @@
                 "Die Monster sind meine Kinder, aber sie werden auch als unabhängige Auftragnehmer fair bezahlt.",
                 "Die Schluchten <u>sind</u> \"bodenlos\", aber eher auf eine tödliche als auf eine quälende Art.",
                 "Ich liebe Bewertungen. Ihr seid gerade alle gleich \"tot\" und \"super tot\". Klasse!",
-                "Diese Höhle wir wahrscheinlich nicht über euch zusammenbrechen. Aber es gibt für alles ein erstes Mal!",
+                "Diese Höhle wird wahrscheinlich nicht über euch zusammenbrechen. Aber es gibt für alles ein erstes Mal!",
                 "Gebt dem Mantikor einen kleinen Kinnkratzer, wenn ihr ihn seht.",
                 "Fühlt euch wie zuhause und werft eure Jacke einfach in den offenen Abgrund.",
                 "Das WLAN-Passwort lautet \"MeinNetzDeinNetz21!\" oder so ähnlich.",
@@ -207,34 +190,104 @@
                 "Mögt ihr die Fackeln? Ich habe sie aus alten Leitern gemacht, die an die Oberfläche führten!"
             ],
             "ROUND_MAP_ROOM_TITLES": [
-                [ "Süße Höhle", "Saure Höhle", "Extra scharfe Höhle" ],
-                [ "Niederdruckhöhle", "Hochdruckhöhle", "Höhlenöde" ],
-                [ "Übungs Mine", "Übungs-Übungs-Höhle", "Übertriebene Höhle" ],
-                [ "Terror Höhle", "Gruselige Höhle", "Unangenehme Höhle" ],
-                [ "Dissens Mine", "Debatten Höhle", "Nur-Schreien-Höhle" ],
-                [ "Erster Basistunnel", "Zweiter Basistunnel", "Händchen-Halt-Höhle" ],
-                [ "Die Traurigkeitshöhle", "Die Verhandlungshöhle", "Der Akzeptanzabgrund" ],
-                [ "Schnappminen", "Kraxel-Höhlen", "Höhle der Riesenexplosionen" ],
-                [ "Kurzgeschichtensystem", "Novellen-Durchgang", "Anthologie-Atoll" ],
-                [ "Raser-Höhle", "Zugfahr-Tunnel", "Flieger-Minen" ],
-                [ "Die gute Höhle", "Die schlechte Mine", "Die hässliche Höhle" ],
-                [ "Mitternachtshöhle", "Mittagstunnel", "Dämmerungstunnel" ],
-                [ "Bestie-Höhle", "Liebhaber-Mine", "Hass-Lieb-Höhle" ],
-                [ "Schüttelhöhle", "Rasselhöhle", "Rollhöhle" ],
-                [ "Alman-Tunnel", "Alman-Höhle", "Alman-Mine" ],
-                [ "Liebeshöhle", "Hochzeits-Grotte", "Babywagen-Tunnel" ],
-                [ "Legislative Höhle", "Exekutive Mine", "Judikativer Abgrund" ],
-                [ "Höhle: Das Original", "Höhle: Die Fortsetzung", "Höhle: Das Prequel" ]
+                [
+                    "Süße Höhle",
+                    "Saure Höhle",
+                    "Extra scharfe Höhle"
+                ],
+                [
+                    "Niederdruckhöhle",
+                    "Hochdruckhöhle",
+                    "Höhlenöde"
+                ],
+                [
+                    "Übungs Mine",
+                    "Übungs-Übungs-Höhle",
+                    "Übertriebene Höhle"
+                ],
+                [
+                    "Terror Höhle",
+                    "Gruselige Höhle",
+                    "Unangenehme Höhle"
+                ],
+                [
+                    "Dissens Mine",
+                    "Debatten Höhle",
+                    "Nur-Schreien-Höhle"
+                ],
+                [
+                    "Erster Basistunnel",
+                    "Zweiter Basistunnel",
+                    "Händchen-Halt-Höhle"
+                ],
+                [
+                    "Die Traurigkeitshöhle",
+                    "Die Verhandlungshöhle",
+                    "Der Akzeptanzabgrund"
+                ],
+                [
+                    "Schnappminen",
+                    "Kraxel-Höhlen",
+                    "Höhle der Riesenexplosionen"
+                ],
+                [
+                    "Kurzgeschichtensystem",
+                    "Novellen-Durchgang",
+                    "Anthologie-Atoll"
+                ],
+                [
+                    "Raser-Höhle",
+                    "Zugfahr-Tunnel",
+                    "Flieger-Minen"
+                ],
+                [
+                    "Die gute Höhle",
+                    "Die schlechte Mine",
+                    "Die hässliche Höhle"
+                ],
+                [
+                    "Mitternachtshöhle",
+                    "Mittagstunnel",
+                    "Dämmerungstunnel"
+                ],
+                [
+                    "Bestie-Höhle",
+                    "Liebhaber-Mine",
+                    "Hass-Lieb-Höhle"
+                ],
+                [
+                    "Schüttelhöhle",
+                    "Rasselhöhle",
+                    "Rollhöhle"
+                ],
+                [
+                    "Alman-Tunnel",
+                    "Alman-Höhle",
+                    "Alman-Mine"
+                ],
+                [
+                    "Liebeshöhle",
+                    "Hochzeits-Grotte",
+                    "Babywagen-Tunnel"
+                ],
+                [
+                    "Legislative Höhle",
+                    "Exekutive Mine",
+                    "Judikativer Abgrund"
+                ],
+                [
+                    "Höhle: Das Original",
+                    "Höhle: Die Fortsetzung",
+                    "Höhle: Das Prequel"
+                ]
             ],
             "ROUND_MAP_WELCOME": "Willkommen!",
-
             "SURVEY_ROUND_HEADER": "Beantwortet die Umfrage",
             "TIMES_UP_MESSAGE_TEXT": "Die Zeit ist um!",
             "GAME_END_MESSAGE_TEXT": "Eine richtige Antwort beendet das Spiel!",
             "AUDIENCE_COUNT_TEXT": "%s im Publikum",
             "AUDIENCE_REVEAL_PERCENT_GUESS_CORRECT": "%s%<br>VOM PUBLIKUM<br>HATTEN<br>RECHT",
             "AUDIENCE_REVEAL_PERCENT_GUESS_INCORRECT": "%s%<br>VOM PUBLIKUM<br>LAGEN<br>FALSCH",
-
             "TEXT_DESCRIPTION_PLAYER_JOINED_VIP": "%s ist beigetreten und der VIP.",
             "TEXT_DESCRIPTION_PLAYER_JOINED": "%s ist beigetreten.",
             "TEXT_DESCRIPTION_PLAYER_CHOOSE_AVATAR": "%s hat seinen Avatar ausgewählt.",
@@ -257,7 +310,6 @@
             "TEXT_DESCRIPTION_GAME_END_TEAM_WIN": "Team %s gewinnt! Team %s verliert!",
             "TEXT_DESCRIPTION_GAME_END_TEAM_TIE": "Team %s und Team %s sind gleich auf!",
             "TEXT_DESCRIPTION_REVEAL": "%s",
-
             "CREDITS_THEME_0": "Dich trieb die Gier tief in mein Revier",
             "CREDITS_THEME_1": "Tja, Pech, jetzt bist du hier und es dämmert dir",
             "CREDITS_THEME_2": "Ich hab’ dich geschnappt",
@@ -288,9 +340,9 @@
             "CREDITS_THEME_27": "In der Poll Mine",
             "CREDITS_THEME_28": "(BÖSES LACHEN)"
         },
-    "fr": {},
-    "it": {},
-    "de": {},
-    "es": {}
-}
+        "fr": {},
+        "it": {},
+        "de": {},
+        "es": {}
+    }
 }
